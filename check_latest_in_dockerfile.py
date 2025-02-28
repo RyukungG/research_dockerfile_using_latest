@@ -32,7 +32,7 @@ def clear_directory(target_dir):
 def clone_repo(reponame):
     dir_name = reponame.replace('/','_')
     try:
-        repo = git.Repo.clone_from('https://github.com/' + reponame,'/work/wataru-m/docker_latest_research/repo/' + dir_name)
+        repo = git.Repo.clone_from('https://github.com/' + reponame,'repo/' + dir_name)
     except Exception as e:
         #print(e)
         #print("取得失敗: {0}".format(reponame))
@@ -42,7 +42,7 @@ def clone_repo(reponame):
 #リポジトリに含まれるDockerfileのリストを返す
 def check_dockerfile(repo,dirname):
     dfile_list = []
-    path = '/work/wataru-m/docker_latest_research/repo/' + dirname
+    path = 'repo' + dirname
     for pathname, dirnames, filenames in os.walk(path):
         for filename in filenames:
             if filename == "Dockerfile" or filename == "dockerfile":
@@ -112,11 +112,11 @@ def main():
     not_use_latest_project = []
 
     ####config####
-    target_directory = "/work/wataru-m/docker_latest_research/repo"  # 削除したいディレクトリを指定
+    target_directory = "repo"  # 削除したいディレクトリを指定
 
-    input_file = "/work/wataru-m/docker_latest_research/repo_list_300k_380k.csv"
-    output_file_use = '/work/wataru-m/docker_latest_research/result/use_latest_300k_380k.txt'
-    output_file_nonuse = '/work/wataru-m/docker_latest_research/result/non_use_latest_300k_380k.txt'
+    input_file = "input/repo_list.csv"
+    output_file_use = 'output/use_latest_project.txt'
+    output_file_nonuse = 'output/non_use_latest_project.txt'
 
     clear_directory(target_directory)
     time.sleep(1)
@@ -148,9 +148,9 @@ def main():
             print('dfile:{0}'.format(total_dfile))
             print('latest:{0}'.format(latest_dfile))
 
-            clear_directory("/work/wataru-m/docker_latest_research/repo/" + dirname)
-            if os.path.exists("/work/wataru-m/docker_latest_research/repo/" + dirname):
-                os.rmdir("/work/wataru-m/docker_latest_research/repo/" + dirname)
+            clear_directory("repo/" + dirname)
+            if os.path.exists("repo/" + dirname):
+                os.rmdir("repo/" + dirname)
 
             print('total project:{0}'.format(project_count))
             print('latest project:{0}'.format(latest_project_count))
