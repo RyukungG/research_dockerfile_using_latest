@@ -7,39 +7,39 @@ import time
 
 def clear_directory(target_dir):
     if not os.path.exists(target_dir):
-        #print(f"ディレクトリ '{target_dir}' は存在しません。")
+        #print(f"directory '{target_dir}' does not exist.")
         return
 
     if not os.path.isdir(target_dir):
-        #print(f"指定されたパス '{target_dir}' はディレクトリではありません。")
+        #print(f"specified path  '{target_dir}' have no directory.")
         return
 
-    # ディレクトリ内のすべてのファイルとサブディレクトリを削除
+    # Delete all files and subdirectories in a directory
     for item in os.listdir(target_dir):
         item_path = os.path.join(target_dir, item)
         try:
             if os.path.isfile(item_path) or os.path.islink(item_path):
-                os.remove(item_path)  # ファイルやシンボリックリンクを削除
+                os.remove(item_path)  # Delete files and symbolic links
             elif os.path.isdir(item_path):
-                shutil.rmtree(item_path)  # ディレクトリを再帰的に削除
-            #print(f"削除完了: {item_path}")
+                shutil.rmtree(item_path)  # Delete directories recursively
+            #print(f"Delete completed: {item_path}")
         except Exception as e:
-            print(f"削除に失敗しました: {item_path}, エラー: {e}")
+            print(f"Failed to delete: {item_path}, Error: {e}")
 
 
 
-#リポジトリのクローン
+# Clone the repository
 def clone_repo(reponame):
     dir_name = reponame.replace('/','_')
     try:
         repo = git.Repo.clone_from('https://github.com/' + reponame,'repo/' + dir_name)
     except Exception as e:
-        #print(e)
-        #print("取得失敗: {0}".format(reponame))
+        print(e)
+        print("Delete completed: {0}".format(reponame))
         repo = ''
     return repo,dir_name
 
-#リポジトリに含まれるDockerfileのリストを返す
+# Return a list of Dockerfiles included in the repository
 def check_dockerfile(repo,dirname):
     dfile_list = []
     path = 'repo' + dirname
@@ -50,7 +50,7 @@ def check_dockerfile(repo,dirname):
     #print("{}:{}".format(dirname, dfile_list))
     return dfile_list
 
-#Dockerfile内の"FROM base:latest"を探す
+#Find "FROM base:latest" in the Dockerfile
 def number_latest_in_dockerfile(dfile_list):
     count = 0
     error = 0
@@ -107,12 +107,13 @@ def main():
     latest_project_count = 0
     total_dfile = 0
     latest_dfile = 0
+    repo_not_found = 0
 
     use_latest_project = []
     not_use_latest_project = []
 
     ####config####
-    target_directory = "repo"  # 削除したいディレクトリを指定
+    target_directory = "repo"  # Specify the directory to delete
 
     input_file = "input/repo_list.csv"
     output_file_use = 'output/use_latest_project.txt'
@@ -132,7 +133,9 @@ def main():
             if repo != '': 
                 project_count += 1
                 dfile_list = check_dockerfile(repo,dirname)
-            else: dfile_list = []
+            else: 
+                dfile_list = []
+                repo_not_found += 1
             
             if len(dfile_list) > 0:
                 number_dfile, number_latest, error = number_latest_in_dockerfile(dfile_list)
@@ -155,9 +158,10 @@ def main():
             print('total project:{0}'.format(project_count))
             print('latest project:{0}'.format(latest_project_count))
             print('file not found or error:{0}'.format(error_count))
+            print('repo not found:{0}'.format(repo_not_found))
             print("-----")
 
-            #動作確認用，少ないリポジトリ数
+            # For operation confirmation, small number of repositories
             #test_count += 1
             #if test_count == 100:
             #    break
