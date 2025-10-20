@@ -32,7 +32,11 @@ def clear_directory(target_dir):
 def clone_repo(reponame):
     dir_name = reponame.replace('/','_')
     try:
-        repo = git.Repo.clone_from('https://github.com/' + reponame,'repo/' + dir_name)
+        repo = git.Repo.clone_from('https://github.com/' + reponame + '.git','repo/' + dir_name)
+        print("Clone completed: {0}".format(reponame))
+    except git.GitCommandError as e:
+        print(f"Error cloning repository: {e}")
+        repo = ''
     except Exception as e:
         print(e)
         print("Delete completed: {0}".format(reponame))
@@ -41,17 +45,19 @@ def clone_repo(reponame):
 
 # Return a list of Dockerfiles included in the repository
 def check_dockerfile(repo,dirname):
+    print("Checking Dockerfile in repo/{0}".format(dirname))
     dfile_list = []
-    path = 'repo' + dirname
+    path = 'repo/' + dirname
     for pathname, dirnames, filenames in os.walk(path):
         for filename in filenames:
             if filename == "Dockerfile" or filename == "dockerfile":
+                print("found Dockerfile: {}/{}".format(pathname, filename))
                 dfile_list.append(pathname+'/'+filename)
     #print("{}:{}".format(dirname, dfile_list))
     return dfile_list
 
 #Find "FROM base:latest" in the Dockerfile
-def number_latest_in_dockerfile(dfile_list):
+def number_latest_in_dockerfile(dfile_list): # I think this function have bugs
     count = 0
     error = 0
     
