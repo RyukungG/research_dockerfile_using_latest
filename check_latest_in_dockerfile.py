@@ -32,7 +32,7 @@ def clear_directory(target_dir):
 def clone_repo(reponame):
     dir_name = reponame.replace('/','_')
     try:
-        repo = git.Repo.clone_from('https://github.com/' + reponame + '.git','repo/' + dir_name)
+        repo = git.Repo.clone_from('git@github.com:' + reponame + '.git','repo/' + dir_name)
         print("Clone completed: {0}".format(reponame))
     except git.GitCommandError as e:
         print(f"Error cloning repository: {e}")
