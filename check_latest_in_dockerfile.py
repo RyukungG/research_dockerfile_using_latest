@@ -162,13 +162,14 @@ def main():
                 total_dfile += number_dfile
                 error_count += error
             
+            if len(dfile_list) == 0 or number_latest == 0:
+                #clear the cloned repository that do not have Dockerfile or do not use latest
+                clear_directory("repo/" + dirname)
+                if os.path.exists("repo/" + dirname):
+                    os.rmdir("repo/" + dirname)
+            
             print('dfile:{0}'.format(total_dfile))
             print('latest:{0}'.format(latest_dfile))
-
-            #clear the cloned repository
-            clear_directory("repo/" + dirname)
-            if os.path.exists("repo/" + dirname):
-                os.rmdir("repo/" + dirname)
 
             print('total project:{0}'.format(project_count))
             print('latest project:{0}'.format(latest_project_count))
