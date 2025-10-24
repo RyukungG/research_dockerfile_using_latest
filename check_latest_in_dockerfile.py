@@ -57,14 +57,16 @@ def check_dockerfile(repo,dirname):
     return dfile_list
 
 #Find "FROM base:latest" in the Dockerfile
-def number_latest_in_dockerfile(dfile_list): # I think this function have bugs
+def number_latest_in_dockerfile(repo, dfile_list): # I think this function have bugs
     count = 0
     error = 0
+    latest_commit_year = 0
     
     dfile_count = len(dfile_list)
     for dfile_path in dfile_list:
         colon_flag = False
         latest_flag = False
+        commit_year = 0
         if not os.path.isdir(dfile_path):
             try:
                 with open(dfile_path,'r') as dfile:
@@ -74,29 +76,35 @@ def number_latest_in_dockerfile(dfile_list): # I think this function have bugs
                             for elements in splited_line:
                                 #change to latest
                                 if elements.find('latest') >= 0:
-                                    count += 1
                                     latest_flag = True
                                     break
                                 elif elements.find(":") > 0 or elements.find('@') > 0:
                                     colon_flag = True
-                            if latest_flag:
-                                break
-                            elif not colon_flag:
+                            if latest_flag or not colon_flag:
                                 count += 1
-                                break                                  
+                                print("Try to check the latest commit year of {}".format("/".join(dfile_path.split('/')[2::])))
+                                commit_year = int(list(repo.iter_commits(paths="/".join(dfile_path.split('/')[2::]), max_count=1))[0].committed_datetime.year)
+                                break
             except Exception as e:
                 #print("dfile error")
                 error += 1
         else:
             dfile_count -= 1
-    return dfile_count, count, error
+        if commit_year > latest_commit_year:
+            latest_commit_year = commit_year
+    print("latest commit year: {0}".format(latest_commit_year))
+    return dfile_count, count, latest_commit_year, error
 
 def output_result(using, not_using, out, out_non):
-    result = open(out, 'w')
-    result_no = open(out_non, 'w')
+    result_no = open(out_non + '.txt', 'w')
     for file in using:
-        result.write(file)
+        if not os.path.exists(out + '_{}.txt'.format(file[1])):
+            result = open(out + '_{}.txt'.format(file[1]), 'w')
+        else:
+            result = open(out + '_{}.txt'.format(file[1]), 'a')
+        result.write(file[0])
         result.write('\n')
+        result.close()
     
     for file in not_using:
         result_no.write(file)
@@ -122,8 +130,8 @@ def main():
     target_directory = "repo"  # Specify the directory to delete
 
     input_file = "input/repo_list.csv"
-    output_file_use = 'output/use_latest_project.txt'
-    output_file_nonuse = 'output/non_use_latest_project.txt'
+    output_file_use = 'output/use_latest_project'
+    output_file_nonuse = 'output/non_use_latest_project'
 
     clear_directory(target_directory)
     time.sleep(1)
@@ -144,11 +152,11 @@ def main():
                 repo_not_found += 1
             
             if len(dfile_list) > 0:
-                number_dfile, number_latest, error = number_latest_in_dockerfile(dfile_list)
+                number_dfile, number_latest, commit_year, error = number_latest_in_dockerfile(repo, dfile_list)
                 latest_dfile += number_latest
                 if number_latest > 0:
                     latest_project_count += 1
-                    use_latest_project.append(reponame)
+                    use_latest_project.append([reponame, commit_year])
                 else:
                     not_use_latest_project.append(reponame)
                 total_dfile += number_dfile
@@ -157,6 +165,7 @@ def main():
             print('dfile:{0}'.format(total_dfile))
             print('latest:{0}'.format(latest_dfile))
 
+            #clear the cloned repository
             clear_directory("repo/" + dirname)
             if os.path.exists("repo/" + dirname):
                 os.rmdir("repo/" + dirname)
