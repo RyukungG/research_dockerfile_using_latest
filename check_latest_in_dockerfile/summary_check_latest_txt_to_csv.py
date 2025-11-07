@@ -41,4 +41,4 @@ with open(output_file, "w", newline="") as csvfile:
         }
         writer.writerow(data)
 
-print(f"✅ Conversion complete! Data saved to '{output_file}'")
+print(f"Conversion complete! Data saved to '{output_file}'")
