@@ -4,6 +4,7 @@ import os
 import shutil
 import glob
 import time
+import argparse
 
 def clear_directory(target_dir):
     if not os.path.exists(target_dir):
@@ -113,8 +114,34 @@ def output_result(using, not_using, out, out_non):
     result.close()
     result_no.close()
 
+def output_summary(total_project, latest_project, total_dfile, latest_dfile, error_count, repo_not_found, process_id):
+    summary = open('output/summary_check_latest_in_dockerfile.txt', 'a')
+    summary.write(f"Process {process_id} results:\n")
+    summary.write('Total project: {0}\n'.format(total_project))
+    summary.write('Project using latest: {0}\n'.format(latest_project))
+    summary.write('Total Dockerfile: {0}\n'.format(total_dfile))
+    summary.write('Dockerfile using latest: {0}\n'.format(latest_dfile))
+    summary.write('File not found or error: {0}\n'.format(error_count))
+    summary.write('Repo not found: {0}\n'.format(repo_not_found))
+    summary.write("--------------------------------------------------\n")
+    summary.close()
 
-def main():
+def setup_index(input_file, index, total_array_size):
+    start = 0
+    stop = -1
+    if index == -1:
+        return start, stop
+    else:
+        total_repo = sum(1 for line in open(input_file))
+        base = total_repo // total_array_size
+        start = index * base + min(index, total_repo % total_array_size)
+        stop = (index + 1) * base + min(index + 1, total_repo % total_array_size)
+        if stop > total_repo:
+            stop = total_repo
+        print("process repo from {} to {}".format(start, stop))
+        return start, stop
+
+def main(input_file, start=0, stop=-1, process_id=0):
     test_count = 0
     project_count = 0
     error_count = 0
@@ -129,17 +156,19 @@ def main():
     ####config####
     target_directory = "repo"  # Specify the directory to delete
 
-    input_file = "input/repo_list.csv"
     output_file_use = 'output/use_latest_project'
     output_file_nonuse = 'output/non_use_latest_project'
 
-    clear_directory(target_directory)
+    # clear_directory(target_directory)
     time.sleep(1)
 
     with open(input_file, 'r') as input_file:
-
-        for reponame in input_file:
+        for i, reponame in enumerate(input_file):
             #clear_directory(target_directory)
+            if i < start:
+                continue
+            if stop != -1 and i >= stop:
+                break
             reponame = reponame.rstrip("\n")
             print(reponame)
 
@@ -167,22 +196,23 @@ def main():
                 clear_directory("repo/" + dirname)
                 if os.path.exists("repo/" + dirname):
                     os.rmdir("repo/" + dirname)
-            
-            print('dfile:{0}'.format(total_dfile))
-            print('latest:{0}'.format(latest_dfile))
-
-            print('total project:{0}'.format(project_count))
-            print('latest project:{0}'.format(latest_project_count))
-            print('file not found or error:{0}'.format(error_count))
-            print('repo not found:{0}'.format(repo_not_found))
-            print("-----")
+        
+            print("--------------------------------------------------")
 
             # For operation confirmation, small number of repositories
             #test_count += 1
             #if test_count == 100:
             #    break
     output_result(use_latest_project, not_use_latest_project, output_file_use, output_file_nonuse)
+    output_summary(project_count, latest_project_count, total_dfile, latest_dfile, error_count, repo_not_found, process_id)
             
             
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_file", type=str, default="input/repo_list_test.csv")
+    parser.add_argument("--index", type=int, default=-1)
+    parser.add_argument("--total_array_size", type=int, default=1)
+    args = parser.parse_args()
+    args = vars(args)
+    start, stop = setup_index(args['input_file'], args['index'], args['total_array_size'])
+    main(args['input_file'], start, stop, args['index'])
