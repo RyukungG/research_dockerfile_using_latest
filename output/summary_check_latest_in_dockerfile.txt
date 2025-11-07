@@ -1,0 +1,4000 @@
+Process 54 results:
+Total project: 462
+Project using latest: 116
+Total Dockerfile: 935
+Dockerfile using latest: 177
+File not found or error: 0
+Repo not found: 296
+--------------------------------------------------
+Process 48 results:
+Total project: 470
+Project using latest: 143
+Total Dockerfile: 1051
+Dockerfile using latest: 176
+File not found or error: 0
+Repo not found: 288
+--------------------------------------------------
+Process 50 results:
+Total project: 476
+Project using latest: 142
+Total Dockerfile: 966
+Dockerfile using latest: 275
+File not found or error: 0
+Repo not found: 282
+--------------------------------------------------
+Process 52 results:
+Total project: 467
+Project using latest: 143
+Total Dockerfile: 954
+Dockerfile using latest: 325
+File not found or error: 0
+Repo not found: 291
+--------------------------------------------------
+Process 57 results:
+Total project: 493
+Project using latest: 147
+Total Dockerfile: 1148
+Dockerfile using latest: 217
+File not found or error: 0
+Repo not found: 265
+--------------------------------------------------
+Process 53 results:
+Total project: 480
+Project using latest: 143
+Total Dockerfile: 938
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 278
+--------------------------------------------------
+Process 55 results:
+Total project: 440
+Project using latest: 139
+Total Dockerfile: 917
+Dockerfile using latest: 204
+File not found or error: 0
+Repo not found: 318
+--------------------------------------------------
+Process 5 results:
+Total project: 533
+Project using latest: 156
+Total Dockerfile: 1385
+Dockerfile using latest: 322
+File not found or error: 0
+Repo not found: 225
+--------------------------------------------------
+Process 72 results:
+Total project: 578
+Project using latest: 183
+Total Dockerfile: 996
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 180
+--------------------------------------------------
+Process 73 results:
+Total project: 568
+Project using latest: 163
+Total Dockerfile: 859
+Dockerfile using latest: 223
+File not found or error: 0
+Repo not found: 190
+--------------------------------------------------
+Process 63 results:
+Total project: 424
+Project using latest: 144
+Total Dockerfile: 888
+Dockerfile using latest: 221
+File not found or error: 0
+Repo not found: 334
+--------------------------------------------------
+Process 70 results:
+Total project: 556
+Project using latest: 151
+Total Dockerfile: 978
+Dockerfile using latest: 326
+File not found or error: 0
+Repo not found: 202
+--------------------------------------------------
+Process 56 results:
+Total project: 475
+Project using latest: 155
+Total Dockerfile: 943
+Dockerfile using latest: 278
+File not found or error: 0
+Repo not found: 283
+--------------------------------------------------
+Process 71 results:
+Total project: 556
+Project using latest: 157
+Total Dockerfile: 914
+Dockerfile using latest: 237
+File not found or error: 1
+Repo not found: 202
+--------------------------------------------------
+Process 77 results:
+Total project: 585
+Project using latest: 172
+Total Dockerfile: 1034
+Dockerfile using latest: 268
+File not found or error: 0
+Repo not found: 173
+--------------------------------------------------
+Process 4 results:
+Total project: 470
+Project using latest: 145
+Total Dockerfile: 12303
+Dockerfile using latest: 418
+File not found or error: 0
+Repo not found: 288
+--------------------------------------------------
+Process 75 results:
+Total project: 599
+Project using latest: 184
+Total Dockerfile: 1114
+Dockerfile using latest: 320
+File not found or error: 0
+Repo not found: 159
+--------------------------------------------------
+Process 69 results:
+Total project: 535
+Project using latest: 158
+Total Dockerfile: 881
+Dockerfile using latest: 223
+File not found or error: 1
+Repo not found: 223
+--------------------------------------------------
+Process 37 results:
+Total project: 511
+Project using latest: 148
+Total Dockerfile: 954
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 247
+--------------------------------------------------
+Process 10 results:
+Total project: 544
+Project using latest: 174
+Total Dockerfile: 1322
+Dockerfile using latest: 316
+File not found or error: 0
+Repo not found: 214
+--------------------------------------------------
+Process 76 results:
+Total project: 600
+Project using latest: 182
+Total Dockerfile: 1297
+Dockerfile using latest: 292
+File not found or error: 0
+Repo not found: 158
+--------------------------------------------------
+Process 51 results:
+Total project: 490
+Project using latest: 156
+Total Dockerfile: 1017
+Dockerfile using latest: 263
+File not found or error: 0
+Repo not found: 268
+--------------------------------------------------
+Process 34 results:
+Total project: 505
+Project using latest: 149
+Total Dockerfile: 1046
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 253
+--------------------------------------------------
+Process 61 results:
+Total project: 479
+Project using latest: 155
+Total Dockerfile: 708
+Dockerfile using latest: 214
+File not found or error: 0
+Repo not found: 279
+--------------------------------------------------
+Process 36 results:
+Total project: 503
+Project using latest: 159
+Total Dockerfile: 898
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 255
+--------------------------------------------------
+Process 68 results:
+Total project: 526
+Project using latest: 163
+Total Dockerfile: 980
+Dockerfile using latest: 269
+File not found or error: 0
+Repo not found: 232
+--------------------------------------------------
+Process 16 results:
+Total project: 499
+Project using latest: 180
+Total Dockerfile: 1118
+Dockerfile using latest: 305
+File not found or error: 0
+Repo not found: 259
+--------------------------------------------------
+Process 93 results:
+Total project: 540
+Project using latest: 158
+Total Dockerfile: 1250
+Dockerfile using latest: 329
+File not found or error: 0
+Repo not found: 218
+--------------------------------------------------
+Process 60 results:
+Total project: 461
+Project using latest: 119
+Total Dockerfile: 954
+Dockerfile using latest: 419
+File not found or error: 0
+Repo not found: 297
+--------------------------------------------------
+Process 88 results:
+Total project: 561
+Project using latest: 166
+Total Dockerfile: 975
+Dockerfile using latest: 210
+File not found or error: 0
+Repo not found: 197
+--------------------------------------------------
+Process 96 results:
+Total project: 571
+Project using latest: 178
+Total Dockerfile: 1461
+Dockerfile using latest: 378
+File not found or error: 0
+Repo not found: 187
+--------------------------------------------------
+Process 27 results:
+Total project: 519
+Project using latest: 169
+Total Dockerfile: 1202
+Dockerfile using latest: 288
+File not found or error: 0
+Repo not found: 239
+--------------------------------------------------
+Process 65 results:
+Total project: 557
+Project using latest: 165
+Total Dockerfile: 1081
+Dockerfile using latest: 238
+File not found or error: 2
+Repo not found: 201
+--------------------------------------------------
+Process 26 results:
+Total project: 508
+Project using latest: 151
+Total Dockerfile: 1385
+Dockerfile using latest: 587
+File not found or error: 0
+Repo not found: 250
+--------------------------------------------------
+Process 97 results:
+Total project: 549
+Project using latest: 173
+Total Dockerfile: 994
+Dockerfile using latest: 261
+File not found or error: 0
+Repo not found: 209
+--------------------------------------------------
+Process 39 results:
+Total project: 515
+Project using latest: 166
+Total Dockerfile: 1072
+Dockerfile using latest: 241
+File not found or error: 0
+Repo not found: 243
+--------------------------------------------------
+Process 35 results:
+Total project: 494
+Project using latest: 145
+Total Dockerfile: 1012
+Dockerfile using latest: 237
+File not found or error: 0
+Repo not found: 264
+--------------------------------------------------
+Process 12 results:
+Total project: 530
+Project using latest: 164
+Total Dockerfile: 1212
+Dockerfile using latest: 308
+File not found or error: 0
+Repo not found: 228
+--------------------------------------------------
+Process 11 results:
+Total project: 551
+Project using latest: 180
+Total Dockerfile: 1791
+Dockerfile using latest: 340
+File not found or error: 0
+Repo not found: 207
+--------------------------------------------------
+Process 24 results:
+Total project: 499
+Project using latest: 154
+Total Dockerfile: 1235
+Dockerfile using latest: 249
+File not found or error: 0
+Repo not found: 259
+--------------------------------------------------
+Process 89 results:
+Total project: 552
+Project using latest: 162
+Total Dockerfile: 872
+Dockerfile using latest: 224
+File not found or error: 0
+Repo not found: 206
+--------------------------------------------------
+Process 33 results:
+Total project: 514
+Project using latest: 158
+Total Dockerfile: 1294
+Dockerfile using latest: 447
+File not found or error: 0
+Repo not found: 244
+--------------------------------------------------
+Process 62 results:
+Total project: 460
+Project using latest: 165
+Total Dockerfile: 1105
+Dockerfile using latest: 326
+File not found or error: 0
+Repo not found: 298
+--------------------------------------------------
+Process 41 results:
+Total project: 503
+Project using latest: 158
+Total Dockerfile: 1153
+Dockerfile using latest: 248
+File not found or error: 0
+Repo not found: 255
+--------------------------------------------------
+Process 106 results:
+Total project: 537
+Project using latest: 159
+Total Dockerfile: 909
+Dockerfile using latest: 268
+File not found or error: 2
+Repo not found: 221
+--------------------------------------------------
+Process 92 results:
+Total project: 559
+Project using latest: 170
+Total Dockerfile: 837
+Dockerfile using latest: 192
+File not found or error: 0
+Repo not found: 199
+--------------------------------------------------
+Process 74 results:
+Total project: 572
+Project using latest: 185
+Total Dockerfile: 1193
+Dockerfile using latest: 331
+File not found or error: 0
+Repo not found: 186
+--------------------------------------------------
+Process 95 results:
+Total project: 592
+Project using latest: 187
+Total Dockerfile: 1075
+Dockerfile using latest: 246
+File not found or error: 0
+Repo not found: 166
+--------------------------------------------------
+Process 29 results:
+Total project: 457
+Project using latest: 144
+Total Dockerfile: 1032
+Dockerfile using latest: 262
+File not found or error: 0
+Repo not found: 301
+--------------------------------------------------
+Process 107 results:
+Total project: 531
+Project using latest: 155
+Total Dockerfile: 838
+Dockerfile using latest: 220
+File not found or error: 0
+Repo not found: 227
+--------------------------------------------------
+Process 78 results:
+Total project: 536
+Project using latest: 154
+Total Dockerfile: 895
+Dockerfile using latest: 233
+File not found or error: 1
+Repo not found: 222
+--------------------------------------------------
+Process 32 results:
+Total project: 504
+Project using latest: 150
+Total Dockerfile: 971
+Dockerfile using latest: 256
+File not found or error: 0
+Repo not found: 254
+--------------------------------------------------
+Process 59 results:
+Total project: 477
+Project using latest: 145
+Total Dockerfile: 994
+Dockerfile using latest: 225
+File not found or error: 0
+Repo not found: 281
+--------------------------------------------------
+Process 31 results:
+Total project: 508
+Project using latest: 163
+Total Dockerfile: 1097
+Dockerfile using latest: 309
+File not found or error: 1
+Repo not found: 250
+--------------------------------------------------
+Process 40 results:
+Total project: 508
+Project using latest: 150
+Total Dockerfile: 1234
+Dockerfile using latest: 215
+File not found or error: 0
+Repo not found: 250
+--------------------------------------------------
+Process 30 results:
+Total project: 524
+Project using latest: 149
+Total Dockerfile: 1407
+Dockerfile using latest: 257
+File not found or error: 0
+Repo not found: 234
+--------------------------------------------------
+Process 20 results:
+Total project: 507
+Project using latest: 178
+Total Dockerfile: 1422
+Dockerfile using latest: 419
+File not found or error: 0
+Repo not found: 251
+--------------------------------------------------
+Process 45 results:
+Total project: 505
+Project using latest: 170
+Total Dockerfile: 1336
+Dockerfile using latest: 586
+File not found or error: 0
+Repo not found: 253
+--------------------------------------------------
+Process 42 results:
+Total project: 511
+Project using latest: 157
+Total Dockerfile: 1172
+Dockerfile using latest: 330
+File not found or error: 0
+Repo not found: 247
+--------------------------------------------------
+Process 64 results:
+Total project: 538
+Project using latest: 187
+Total Dockerfile: 876
+Dockerfile using latest: 226
+File not found or error: 1
+Repo not found: 220
+--------------------------------------------------
+Process 58 results:
+Total project: 468
+Project using latest: 150
+Total Dockerfile: 1072
+Dockerfile using latest: 315
+File not found or error: 0
+Repo not found: 290
+--------------------------------------------------
+Process 2 results:
+Total project: 506
+Project using latest: 151
+Total Dockerfile: 1449
+Dockerfile using latest: 306
+File not found or error: 0
+Repo not found: 252
+--------------------------------------------------
+Process 38 results:
+Total project: 491
+Project using latest: 149
+Total Dockerfile: 1212
+Dockerfile using latest: 247
+File not found or error: 0
+Repo not found: 267
+--------------------------------------------------
+Process 25 results:
+Total project: 483
+Project using latest: 147
+Total Dockerfile: 1038
+Dockerfile using latest: 235
+File not found or error: 0
+Repo not found: 275
+--------------------------------------------------
+Process 1 results:
+Total project: 490
+Project using latest: 160
+Total Dockerfile: 1517
+Dockerfile using latest: 350
+File not found or error: 0
+Repo not found: 268
+--------------------------------------------------
+Process 47 results:
+Total project: 461
+Project using latest: 139
+Total Dockerfile: 765
+Dockerfile using latest: 261
+File not found or error: 0
+Repo not found: 297
+--------------------------------------------------
+Process 14 results:
+Total project: 505
+Project using latest: 158
+Total Dockerfile: 1446
+Dockerfile using latest: 314
+File not found or error: 0
+Repo not found: 253
+--------------------------------------------------
+Process 23 results:
+Total project: 470
+Project using latest: 134
+Total Dockerfile: 978
+Dockerfile using latest: 195
+File not found or error: 1
+Repo not found: 288
+--------------------------------------------------
+Process 90 results:
+Total project: 554
+Project using latest: 160
+Total Dockerfile: 1650
+Dockerfile using latest: 335
+File not found or error: 0
+Repo not found: 204
+--------------------------------------------------
+Process 44 results:
+Total project: 502
+Project using latest: 128
+Total Dockerfile: 1080
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 256
+--------------------------------------------------
+Process 46 results:
+Total project: 488
+Project using latest: 145
+Total Dockerfile: 1064
+Dockerfile using latest: 246
+File not found or error: 0
+Repo not found: 270
+--------------------------------------------------
+Process 9 results:
+Total project: 536
+Project using latest: 159
+Total Dockerfile: 5615
+Dockerfile using latest: 316
+File not found or error: 0
+Repo not found: 222
+--------------------------------------------------
+Process 66 results:
+Total project: 563
+Project using latest: 165
+Total Dockerfile: 853
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 195
+--------------------------------------------------
+Process 6 results:
+Total project: 533
+Project using latest: 175
+Total Dockerfile: 1550
+Dockerfile using latest: 395
+File not found or error: 0
+Repo not found: 225
+--------------------------------------------------
+Process 91 results:
+Total project: 555
+Project using latest: 170
+Total Dockerfile: 747
+Dockerfile using latest: 203
+File not found or error: 0
+Repo not found: 203
+--------------------------------------------------
+Process 80 results:
+Total project: 549
+Project using latest: 185
+Total Dockerfile: 1273
+Dockerfile using latest: 350
+File not found or error: 0
+Repo not found: 209
+--------------------------------------------------
+Process 105 results:
+Total project: 535
+Project using latest: 171
+Total Dockerfile: 915
+Dockerfile using latest: 351
+File not found or error: 0
+Repo not found: 223
+--------------------------------------------------
+Process 13 results:
+Total project: 550
+Project using latest: 154
+Total Dockerfile: 1425
+Dockerfile using latest: 427
+File not found or error: 0
+Repo not found: 208
+--------------------------------------------------
+Process 67 results:
+Total project: 553
+Project using latest: 167
+Total Dockerfile: 925
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 205
+--------------------------------------------------
+Process 108 results:
+Total project: 536
+Project using latest: 168
+Total Dockerfile: 943
+Dockerfile using latest: 273
+File not found or error: 0
+Repo not found: 222
+--------------------------------------------------
+Process 7 results:
+Total project: 541
+Project using latest: 168
+Total Dockerfile: 1720
+Dockerfile using latest: 334
+File not found or error: 1
+Repo not found: 217
+--------------------------------------------------
+Process 49 results:
+Total project: 479
+Project using latest: 150
+Total Dockerfile: 1016
+Dockerfile using latest: 326
+File not found or error: 0
+Repo not found: 279
+--------------------------------------------------
+Process 109 results:
+Total project: 556
+Project using latest: 168
+Total Dockerfile: 994
+Dockerfile using latest: 251
+File not found or error: 0
+Repo not found: 202
+--------------------------------------------------
+Process 0 results:
+Total project: 486
+Project using latest: 175
+Total Dockerfile: 1505
+Dockerfile using latest: 494
+File not found or error: 0
+Repo not found: 272
+--------------------------------------------------
+Process 28 results:
+Total project: 517
+Project using latest: 160
+Total Dockerfile: 21928
+Dockerfile using latest: 331
+File not found or error: 0
+Repo not found: 241
+--------------------------------------------------
+Process 103 results:
+Total project: 536
+Project using latest: 175
+Total Dockerfile: 931
+Dockerfile using latest: 250
+File not found or error: 0
+Repo not found: 222
+--------------------------------------------------
+Process 79 results:
+Total project: 560
+Project using latest: 157
+Total Dockerfile: 1121
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 198
+--------------------------------------------------
+Process 22 results:
+Total project: 507
+Project using latest: 162
+Total Dockerfile: 3126
+Dockerfile using latest: 416
+File not found or error: 0
+Repo not found: 251
+--------------------------------------------------
+Process 82 results:
+Total project: 569
+Project using latest: 151
+Total Dockerfile: 1184
+Dockerfile using latest: 219
+File not found or error: 0
+Repo not found: 189
+--------------------------------------------------
+Process 8 results:
+Total project: 493
+Project using latest: 138
+Total Dockerfile: 1336
+Dockerfile using latest: 280
+File not found or error: 0
+Repo not found: 265
+--------------------------------------------------
+Process 15 results:
+Total project: 498
+Project using latest: 153
+Total Dockerfile: 1659
+Dockerfile using latest: 453
+File not found or error: 0
+Repo not found: 260
+--------------------------------------------------
+Process 102 results:
+Total project: 563
+Project using latest: 173
+Total Dockerfile: 880
+Dockerfile using latest: 202
+File not found or error: 0
+Repo not found: 195
+--------------------------------------------------
+Process 86 results:
+Total project: 549
+Project using latest: 167
+Total Dockerfile: 924
+Dockerfile using latest: 254
+File not found or error: 0
+Repo not found: 209
+--------------------------------------------------
+Process 19 results:
+Total project: 487
+Project using latest: 169
+Total Dockerfile: 1093
+Dockerfile using latest: 276
+File not found or error: 0
+Repo not found: 271
+--------------------------------------------------
+Process 43 results:
+Total project: 519
+Project using latest: 169
+Total Dockerfile: 979
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 239
+--------------------------------------------------
+Process 21 results:
+Total project: 493
+Project using latest: 145
+Total Dockerfile: 1307
+Dockerfile using latest: 284
+File not found or error: 0
+Repo not found: 265
+--------------------------------------------------
+Process 104 results:
+Total project: 563
+Project using latest: 152
+Total Dockerfile: 928
+Dockerfile using latest: 224
+File not found or error: 0
+Repo not found: 195
+--------------------------------------------------
+Process 17 results:
+Total project: 503
+Project using latest: 151
+Total Dockerfile: 1445
+Dockerfile using latest: 314
+File not found or error: 0
+Repo not found: 255
+--------------------------------------------------
+Process 3 results:
+Total project: 512
+Project using latest: 195
+Total Dockerfile: 1602
+Dockerfile using latest: 472
+File not found or error: 0
+Repo not found: 246
+--------------------------------------------------
+Process 101 results:
+Total project: 567
+Project using latest: 186
+Total Dockerfile: 1074
+Dockerfile using latest: 295
+File not found or error: 0
+Repo not found: 191
+--------------------------------------------------
+Process 84 results:
+Total project: 578
+Project using latest: 198
+Total Dockerfile: 975
+Dockerfile using latest: 343
+File not found or error: 0
+Repo not found: 180
+--------------------------------------------------
+Process 94 results:
+Total project: 565
+Project using latest: 167
+Total Dockerfile: 1142
+Dockerfile using latest: 311
+File not found or error: 0
+Repo not found: 193
+--------------------------------------------------
+Process 83 results:
+Total project: 576
+Project using latest: 168
+Total Dockerfile: 992
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 182
+--------------------------------------------------
+Process 99 results:
+Total project: 577
+Project using latest: 160
+Total Dockerfile: 1436
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 181
+--------------------------------------------------
+Process 110 results:
+Total project: 538
+Project using latest: 150
+Total Dockerfile: 914
+Dockerfile using latest: 194
+File not found or error: 0
+Repo not found: 220
+--------------------------------------------------
+Process 98 results:
+Total project: 547
+Project using latest: 157
+Total Dockerfile: 954
+Dockerfile using latest: 215
+File not found or error: 0
+Repo not found: 211
+--------------------------------------------------
+Process 100 results:
+Total project: 545
+Project using latest: 159
+Total Dockerfile: 901
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 213
+--------------------------------------------------
+Process 81 results:
+Total project: 543
+Project using latest: 180
+Total Dockerfile: 1054
+Dockerfile using latest: 297
+File not found or error: 0
+Repo not found: 215
+--------------------------------------------------
+Process 18 results:
+Total project: 476
+Project using latest: 151
+Total Dockerfile: 1115
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 282
+--------------------------------------------------
+Process 113 results:
+Total project: 535
+Project using latest: 163
+Total Dockerfile: 729
+Dockerfile using latest: 222
+File not found or error: 0
+Repo not found: 223
+--------------------------------------------------
+Process 112 results:
+Total project: 504
+Project using latest: 168
+Total Dockerfile: 746
+Dockerfile using latest: 211
+File not found or error: 0
+Repo not found: 254
+--------------------------------------------------
+Process 111 results:
+Total project: 542
+Project using latest: 171
+Total Dockerfile: 795
+Dockerfile using latest: 239
+File not found or error: 0
+Repo not found: 216
+--------------------------------------------------
+Process 116 results:
+Total project: 531
+Project using latest: 168
+Total Dockerfile: 996
+Dockerfile using latest: 262
+File not found or error: 1
+Repo not found: 226
+--------------------------------------------------
+Process 114 results:
+Total project: 507
+Project using latest: 148
+Total Dockerfile: 748
+Dockerfile using latest: 195
+File not found or error: 0
+Repo not found: 251
+--------------------------------------------------
+Process 87 results:
+Total project: 565
+Project using latest: 163
+Total Dockerfile: 873
+Dockerfile using latest: 249
+File not found or error: 0
+Repo not found: 193
+--------------------------------------------------
+Process 85 results:
+Total project: 576
+Project using latest: 177
+Total Dockerfile: 1104
+Dockerfile using latest: 320
+File not found or error: 1
+Repo not found: 182
+--------------------------------------------------
+Process 125 results:
+Total project: 531
+Project using latest: 161
+Total Dockerfile: 1002
+Dockerfile using latest: 244
+File not found or error: 0
+Repo not found: 226
+--------------------------------------------------
+Process 122 results:
+Total project: 517
+Project using latest: 166
+Total Dockerfile: 804
+Dockerfile using latest: 218
+File not found or error: 0
+Repo not found: 240
+--------------------------------------------------
+Process 124 results:
+Total project: 566
+Project using latest: 180
+Total Dockerfile: 1000
+Dockerfile using latest: 251
+File not found or error: 0
+Repo not found: 191
+--------------------------------------------------
+Process 123 results:
+Total project: 550
+Project using latest: 175
+Total Dockerfile: 1041
+Dockerfile using latest: 240
+File not found or error: 1
+Repo not found: 207
+--------------------------------------------------
+Process 117 results:
+Total project: 520
+Project using latest: 150
+Total Dockerfile: 1102
+Dockerfile using latest: 499
+File not found or error: 0
+Repo not found: 237
+--------------------------------------------------
+Process 120 results:
+Total project: 554
+Project using latest: 180
+Total Dockerfile: 843
+Dockerfile using latest: 253
+File not found or error: 0
+Repo not found: 203
+--------------------------------------------------
+Process 121 results:
+Total project: 514
+Project using latest: 149
+Total Dockerfile: 707
+Dockerfile using latest: 171
+File not found or error: 2
+Repo not found: 243
+--------------------------------------------------
+Process 118 results:
+Total project: 550
+Project using latest: 180
+Total Dockerfile: 885
+Dockerfile using latest: 245
+File not found or error: 0
+Repo not found: 207
+--------------------------------------------------
+Process 115 results:
+Total project: 518
+Project using latest: 156
+Total Dockerfile: 865
+Dockerfile using latest: 224
+File not found or error: 0
+Repo not found: 239
+--------------------------------------------------
+Process 119 results:
+Total project: 527
+Project using latest: 144
+Total Dockerfile: 906
+Dockerfile using latest: 249
+File not found or error: 1
+Repo not found: 230
+--------------------------------------------------
+Process 127 results:
+Total project: 501
+Project using latest: 156
+Total Dockerfile: 876
+Dockerfile using latest: 203
+File not found or error: 0
+Repo not found: 256
+--------------------------------------------------
+Process 126 results:
+Total project: 501
+Project using latest: 160
+Total Dockerfile: 995
+Dockerfile using latest: 282
+File not found or error: 1
+Repo not found: 256
+--------------------------------------------------
+Process 135 results:
+Total project: 483
+Project using latest: 161
+Total Dockerfile: 803
+Dockerfile using latest: 202
+File not found or error: 0
+Repo not found: 274
+--------------------------------------------------
+Process 128 results:
+Total project: 558
+Project using latest: 174
+Total Dockerfile: 792
+Dockerfile using latest: 232
+File not found or error: 0
+Repo not found: 199
+--------------------------------------------------
+Process 129 results:
+Total project: 525
+Project using latest: 162
+Total Dockerfile: 840
+Dockerfile using latest: 229
+File not found or error: 0
+Repo not found: 232
+--------------------------------------------------
+Process 130 results:
+Total project: 550
+Project using latest: 160
+Total Dockerfile: 1149
+Dockerfile using latest: 358
+File not found or error: 0
+Repo not found: 207
+--------------------------------------------------
+Process 143 results:
+Total project: 525
+Project using latest: 159
+Total Dockerfile: 756
+Dockerfile using latest: 251
+File not found or error: 0
+Repo not found: 232
+--------------------------------------------------
+Process 140 results:
+Total project: 544
+Project using latest: 156
+Total Dockerfile: 681
+Dockerfile using latest: 170
+File not found or error: 0
+Repo not found: 213
+--------------------------------------------------
+Process 151 results:
+Total project: 520
+Project using latest: 155
+Total Dockerfile: 859
+Dockerfile using latest: 219
+File not found or error: 0
+Repo not found: 237
+--------------------------------------------------
+Process 139 results:
+Total project: 556
+Project using latest: 167
+Total Dockerfile: 889
+Dockerfile using latest: 255
+File not found or error: 0
+Repo not found: 201
+--------------------------------------------------
+Process 134 results:
+Total project: 525
+Project using latest: 149
+Total Dockerfile: 840
+Dockerfile using latest: 194
+File not found or error: 0
+Repo not found: 232
+--------------------------------------------------
+Process 141 results:
+Total project: 536
+Project using latest: 168
+Total Dockerfile: 959
+Dockerfile using latest: 227
+File not found or error: 0
+Repo not found: 221
+--------------------------------------------------
+Process 138 results:
+Total project: 562
+Project using latest: 146
+Total Dockerfile: 1096
+Dockerfile using latest: 309
+File not found or error: 0
+Repo not found: 195
+--------------------------------------------------
+Process 146 results:
+Total project: 491
+Project using latest: 149
+Total Dockerfile: 633
+Dockerfile using latest: 194
+File not found or error: 0
+Repo not found: 266
+--------------------------------------------------
+Process 137 results:
+Total project: 576
+Project using latest: 181
+Total Dockerfile: 799
+Dockerfile using latest: 204
+File not found or error: 0
+Repo not found: 181
+--------------------------------------------------
+Process 142 results:
+Total project: 498
+Project using latest: 134
+Total Dockerfile: 710
+Dockerfile using latest: 176
+File not found or error: 0
+Repo not found: 259
+--------------------------------------------------
+Process 131 results:
+Total project: 577
+Project using latest: 166
+Total Dockerfile: 878
+Dockerfile using latest: 209
+File not found or error: 0
+Repo not found: 180
+--------------------------------------------------
+Process 172 results:
+Total project: 446
+Project using latest: 120
+Total Dockerfile: 797
+Dockerfile using latest: 158
+File not found or error: 0
+Repo not found: 311
+--------------------------------------------------
+Process 175 results:
+Total project: 491
+Project using latest: 158
+Total Dockerfile: 743
+Dockerfile using latest: 194
+File not found or error: 0
+Repo not found: 266
+--------------------------------------------------
+Process 170 results:
+Total project: 472
+Project using latest: 147
+Total Dockerfile: 798
+Dockerfile using latest: 202
+File not found or error: 0
+Repo not found: 285
+--------------------------------------------------
+Process 160 results:
+Total project: 455
+Project using latest: 117
+Total Dockerfile: 704
+Dockerfile using latest: 143
+File not found or error: 0
+Repo not found: 302
+--------------------------------------------------
+Process 166 results:
+Total project: 459
+Project using latest: 143
+Total Dockerfile: 579
+Dockerfile using latest: 186
+File not found or error: 0
+Repo not found: 298
+--------------------------------------------------
+Process 144 results:
+Total project: 518
+Project using latest: 157
+Total Dockerfile: 849
+Dockerfile using latest: 320
+File not found or error: 0
+Repo not found: 239
+--------------------------------------------------
+Process 136 results:
+Total project: 526
+Project using latest: 158
+Total Dockerfile: 738
+Dockerfile using latest: 173
+File not found or error: 0
+Repo not found: 231
+--------------------------------------------------
+Process 150 results:
+Total project: 515
+Project using latest: 164
+Total Dockerfile: 860
+Dockerfile using latest: 213
+File not found or error: 0
+Repo not found: 242
+--------------------------------------------------
+Process 149 results:
+Total project: 536
+Project using latest: 169
+Total Dockerfile: 806
+Dockerfile using latest: 212
+File not found or error: 0
+Repo not found: 221
+--------------------------------------------------
+Process 159 results:
+Total project: 477
+Project using latest: 142
+Total Dockerfile: 652
+Dockerfile using latest: 169
+File not found or error: 0
+Repo not found: 280
+--------------------------------------------------
+Process 153 results:
+Total project: 485
+Project using latest: 140
+Total Dockerfile: 693
+Dockerfile using latest: 173
+File not found or error: 0
+Repo not found: 272
+--------------------------------------------------
+Process 156 results:
+Total project: 487
+Project using latest: 149
+Total Dockerfile: 837
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 270
+--------------------------------------------------
+Process 145 results:
+Total project: 563
+Project using latest: 153
+Total Dockerfile: 897
+Dockerfile using latest: 250
+File not found or error: 0
+Repo not found: 194
+--------------------------------------------------
+Process 158 results:
+Total project: 454
+Project using latest: 153
+Total Dockerfile: 559
+Dockerfile using latest: 163
+File not found or error: 0
+Repo not found: 303
+--------------------------------------------------
+Process 181 results:
+Total project: 457
+Project using latest: 127
+Total Dockerfile: 718
+Dockerfile using latest: 191
+File not found or error: 0
+Repo not found: 300
+--------------------------------------------------
+Process 162 results:
+Total project: 474
+Project using latest: 147
+Total Dockerfile: 622
+Dockerfile using latest: 179
+File not found or error: 0
+Repo not found: 283
+--------------------------------------------------
+Process 148 results:
+Total project: 560
+Project using latest: 177
+Total Dockerfile: 1304
+Dockerfile using latest: 264
+File not found or error: 0
+Repo not found: 197
+--------------------------------------------------
+Process 171 results:
+Total project: 475
+Project using latest: 152
+Total Dockerfile: 742
+Dockerfile using latest: 200
+File not found or error: 0
+Repo not found: 282
+--------------------------------------------------
+Process 180 results:
+Total project: 482
+Project using latest: 136
+Total Dockerfile: 628
+Dockerfile using latest: 171
+File not found or error: 0
+Repo not found: 275
+--------------------------------------------------
+Process 173 results:
+Total project: 481
+Project using latest: 141
+Total Dockerfile: 721
+Dockerfile using latest: 178
+File not found or error: 1
+Repo not found: 276
+--------------------------------------------------
+Process 179 results:
+Total project: 430
+Project using latest: 134
+Total Dockerfile: 2078
+Dockerfile using latest: 207
+File not found or error: 0
+Repo not found: 327
+--------------------------------------------------
+Process 184 results:
+Total project: 434
+Project using latest: 137
+Total Dockerfile: 731
+Dockerfile using latest: 260
+File not found or error: 0
+Repo not found: 323
+--------------------------------------------------
+Process 169 results:
+Total project: 473
+Project using latest: 139
+Total Dockerfile: 625
+Dockerfile using latest: 205
+File not found or error: 0
+Repo not found: 284
+--------------------------------------------------
+Process 154 results:
+Total project: 479
+Project using latest: 143
+Total Dockerfile: 690
+Dockerfile using latest: 170
+File not found or error: 0
+Repo not found: 278
+--------------------------------------------------
+Process 183 results:
+Total project: 471
+Project using latest: 122
+Total Dockerfile: 577
+Dockerfile using latest: 128
+File not found or error: 0
+Repo not found: 286
+--------------------------------------------------
+Process 161 results:
+Total project: 476
+Project using latest: 135
+Total Dockerfile: 683
+Dockerfile using latest: 158
+File not found or error: 0
+Repo not found: 281
+--------------------------------------------------
+Process 152 results:
+Total project: 506
+Project using latest: 152
+Total Dockerfile: 813
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 251
+--------------------------------------------------
+Process 132 results:
+Total project: 578
+Project using latest: 183
+Total Dockerfile: 1135
+Dockerfile using latest: 325
+File not found or error: 0
+Repo not found: 179
+--------------------------------------------------
+Process 168 results:
+Total project: 484
+Project using latest: 144
+Total Dockerfile: 808
+Dockerfile using latest: 195
+File not found or error: 0
+Repo not found: 273
+--------------------------------------------------
+Process 174 results:
+Total project: 509
+Project using latest: 159
+Total Dockerfile: 773
+Dockerfile using latest: 265
+File not found or error: 1
+Repo not found: 248
+--------------------------------------------------
+Process 157 results:
+Total project: 518
+Project using latest: 152
+Total Dockerfile: 693
+Dockerfile using latest: 190
+File not found or error: 0
+Repo not found: 239
+--------------------------------------------------
+Process 178 results:
+Total project: 498
+Project using latest: 164
+Total Dockerfile: 702
+Dockerfile using latest: 212
+File not found or error: 1
+Repo not found: 259
+--------------------------------------------------
+Process 164 results:
+Total project: 563
+Project using latest: 166
+Total Dockerfile: 992
+Dockerfile using latest: 206
+File not found or error: 1
+Repo not found: 194
+--------------------------------------------------
+Process 167 results:
+Total project: 500
+Project using latest: 156
+Total Dockerfile: 740
+Dockerfile using latest: 192
+File not found or error: 0
+Repo not found: 257
+--------------------------------------------------
+Process 182 results:
+Total project: 441
+Project using latest: 136
+Total Dockerfile: 644
+Dockerfile using latest: 165
+File not found or error: 0
+Repo not found: 316
+--------------------------------------------------
+Process 208 results:
+Total project: 637
+Project using latest: 180
+Total Dockerfile: 935
+Dockerfile using latest: 194
+File not found or error: 0
+Repo not found: 120
+--------------------------------------------------
+Process 205 results:
+Total project: 619
+Project using latest: 178
+Total Dockerfile: 944
+Dockerfile using latest: 247
+File not found or error: 0
+Repo not found: 138
+--------------------------------------------------
+Process 207 results:
+Total project: 647
+Project using latest: 204
+Total Dockerfile: 1227
+Dockerfile using latest: 313
+File not found or error: 1
+Repo not found: 110
+--------------------------------------------------
+Process 177 results:
+Total project: 480
+Project using latest: 125
+Total Dockerfile: 887
+Dockerfile using latest: 184
+File not found or error: 1
+Repo not found: 277
+--------------------------------------------------
+Process 193 results:
+Total project: 575
+Project using latest: 153
+Total Dockerfile: 969
+Dockerfile using latest: 200
+File not found or error: 0
+Repo not found: 182
+--------------------------------------------------
+Process 176 results:
+Total project: 502
+Project using latest: 147
+Total Dockerfile: 734
+Dockerfile using latest: 185
+File not found or error: 1
+Repo not found: 255
+--------------------------------------------------
+Process 163 results:
+Total project: 523
+Project using latest: 151
+Total Dockerfile: 813
+Dockerfile using latest: 200
+File not found or error: 0
+Repo not found: 234
+--------------------------------------------------
+Process 217 results:
+Total project: 573
+Project using latest: 167
+Total Dockerfile: 764
+Dockerfile using latest: 209
+File not found or error: 0
+Repo not found: 184
+--------------------------------------------------
+Process 155 results:
+Total project: 471
+Project using latest: 126
+Total Dockerfile: 614
+Dockerfile using latest: 174
+File not found or error: 0
+Repo not found: 286
+--------------------------------------------------
+Process 202 results:
+Total project: 606
+Project using latest: 184
+Total Dockerfile: 853
+Dockerfile using latest: 226
+File not found or error: 1
+Repo not found: 151
+--------------------------------------------------
+Process 189 results:
+Total project: 602
+Project using latest: 179
+Total Dockerfile: 993
+Dockerfile using latest: 269
+File not found or error: 0
+Repo not found: 155
+--------------------------------------------------
+Process 230 results:
+Total project: 598
+Project using latest: 186
+Total Dockerfile: 950
+Dockerfile using latest: 254
+File not found or error: 0
+Repo not found: 159
+--------------------------------------------------
+Process 211 results:
+Total project: 586
+Project using latest: 171
+Total Dockerfile: 922
+Dockerfile using latest: 270
+File not found or error: 0
+Repo not found: 171
+--------------------------------------------------
+Process 185 results:
+Total project: 486
+Project using latest: 153
+Total Dockerfile: 733
+Dockerfile using latest: 189
+File not found or error: 0
+Repo not found: 271
+--------------------------------------------------
+Process 192 results:
+Total project: 632
+Project using latest: 176
+Total Dockerfile: 1008
+Dockerfile using latest: 301
+File not found or error: 0
+Repo not found: 125
+--------------------------------------------------
+Process 200 results:
+Total project: 632
+Project using latest: 179
+Total Dockerfile: 800
+Dockerfile using latest: 215
+File not found or error: 0
+Repo not found: 125
+--------------------------------------------------
+Process 199 results:
+Total project: 625
+Project using latest: 185
+Total Dockerfile: 1022
+Dockerfile using latest: 318
+File not found or error: 0
+Repo not found: 132
+--------------------------------------------------
+Process 188 results:
+Total project: 626
+Project using latest: 171
+Total Dockerfile: 891
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 214 results:
+Total project: 604
+Project using latest: 176
+Total Dockerfile: 958
+Dockerfile using latest: 221
+File not found or error: 1
+Repo not found: 153
+--------------------------------------------------
+Process 204 results:
+Total project: 600
+Project using latest: 192
+Total Dockerfile: 770
+Dockerfile using latest: 217
+File not found or error: 0
+Repo not found: 157
+--------------------------------------------------
+Process 197 results:
+Total project: 627
+Project using latest: 201
+Total Dockerfile: 967
+Dockerfile using latest: 228
+File not found or error: 0
+Repo not found: 130
+--------------------------------------------------
+Process 194 results:
+Total project: 626
+Project using latest: 164
+Total Dockerfile: 863
+Dockerfile using latest: 280
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 203 results:
+Total project: 618
+Project using latest: 192
+Total Dockerfile: 1014
+Dockerfile using latest: 287
+File not found or error: 0
+Repo not found: 139
+--------------------------------------------------
+Process 133 results:
+Total project: 545
+Project using latest: 145
+Total Dockerfile: 707
+Dockerfile using latest: 170
+File not found or error: 0
+Repo not found: 212
+--------------------------------------------------
+Process 191 results:
+Total project: 612
+Project using latest: 171
+Total Dockerfile: 811
+Dockerfile using latest: 203
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 201 results:
+Total project: 612
+Project using latest: 189
+Total Dockerfile: 961
+Dockerfile using latest: 258
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 196 results:
+Total project: 634
+Project using latest: 190
+Total Dockerfile: 947
+Dockerfile using latest: 248
+File not found or error: 0
+Repo not found: 123
+--------------------------------------------------
+Process 212 results:
+Total project: 609
+Project using latest: 187
+Total Dockerfile: 944
+Dockerfile using latest: 257
+File not found or error: 0
+Repo not found: 148
+--------------------------------------------------
+Process 237 results:
+Total project: 570
+Project using latest: 173
+Total Dockerfile: 879
+Dockerfile using latest: 206
+File not found or error: 0
+Repo not found: 187
+--------------------------------------------------
+Process 206 results:
+Total project: 621
+Project using latest: 187
+Total Dockerfile: 889
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 136
+--------------------------------------------------
+Process 215 results:
+Total project: 604
+Project using latest: 174
+Total Dockerfile: 869
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 153
+--------------------------------------------------
+Process 210 results:
+Total project: 618
+Project using latest: 201
+Total Dockerfile: 1036
+Dockerfile using latest: 264
+File not found or error: 0
+Repo not found: 139
+--------------------------------------------------
+Process 213 results:
+Total project: 586
+Project using latest: 150
+Total Dockerfile: 838
+Dockerfile using latest: 166
+File not found or error: 0
+Repo not found: 171
+--------------------------------------------------
+Process 223 results:
+Total project: 598
+Project using latest: 187
+Total Dockerfile: 1069
+Dockerfile using latest: 267
+File not found or error: 0
+Repo not found: 159
+--------------------------------------------------
+Process 227 results:
+Total project: 589
+Project using latest: 163
+Total Dockerfile: 819
+Dockerfile using latest: 187
+File not found or error: 0
+Repo not found: 168
+--------------------------------------------------
+Process 236 results:
+Total project: 589
+Project using latest: 159
+Total Dockerfile: 861
+Dockerfile using latest: 183
+File not found or error: 0
+Repo not found: 168
+--------------------------------------------------
+Process 222 results:
+Total project: 613
+Project using latest: 172
+Total Dockerfile: 904
+Dockerfile using latest: 234
+File not found or error: 0
+Repo not found: 144
+--------------------------------------------------
+Process 198 results:
+Total project: 606
+Project using latest: 171
+Total Dockerfile: 987
+Dockerfile using latest: 196
+File not found or error: 0
+Repo not found: 151
+--------------------------------------------------
+Process 190 results:
+Total project: 637
+Project using latest: 175
+Total Dockerfile: 957
+Dockerfile using latest: 211
+File not found or error: 0
+Repo not found: 120
+--------------------------------------------------
+Process 235 results:
+Total project: 595
+Project using latest: 190
+Total Dockerfile: 845
+Dockerfile using latest: 248
+File not found or error: 0
+Repo not found: 162
+--------------------------------------------------
+Process 220 results:
+Total project: 650
+Project using latest: 170
+Total Dockerfile: 1093
+Dockerfile using latest: 226
+File not found or error: 0
+Repo not found: 107
+--------------------------------------------------
+Process 195 results:
+Total project: 640
+Project using latest: 192
+Total Dockerfile: 857
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 117
+--------------------------------------------------
+Process 216 results:
+Total project: 596
+Project using latest: 184
+Total Dockerfile: 817
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 161
+--------------------------------------------------
+Process 187 results:
+Total project: 626
+Project using latest: 178
+Total Dockerfile: 920
+Dockerfile using latest: 207
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 186 results:
+Total project: 631
+Project using latest: 189
+Total Dockerfile: 920
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 126
+--------------------------------------------------
+Process 229 results:
+Total project: 595
+Project using latest: 190
+Total Dockerfile: 881
+Dockerfile using latest: 234
+File not found or error: 0
+Repo not found: 162
+--------------------------------------------------
+Process 165 results:
+Total project: 487
+Project using latest: 141
+Total Dockerfile: 1103
+Dockerfile using latest: 302
+File not found or error: 0
+Repo not found: 270
+--------------------------------------------------
+Process 233 results:
+Total project: 614
+Project using latest: 182
+Total Dockerfile: 909
+Dockerfile using latest: 217
+File not found or error: 0
+Repo not found: 143
+--------------------------------------------------
+Process 226 results:
+Total project: 611
+Project using latest: 171
+Total Dockerfile: 762
+Dockerfile using latest: 185
+File not found or error: 0
+Repo not found: 146
+--------------------------------------------------
+Process 224 results:
+Total project: 597
+Project using latest: 164
+Total Dockerfile: 999
+Dockerfile using latest: 220
+File not found or error: 0
+Repo not found: 160
+--------------------------------------------------
+Process 221 results:
+Total project: 636
+Project using latest: 185
+Total Dockerfile: 815
+Dockerfile using latest: 223
+File not found or error: 0
+Repo not found: 121
+--------------------------------------------------
+Process 228 results:
+Total project: 576
+Project using latest: 170
+Total Dockerfile: 908
+Dockerfile using latest: 297
+File not found or error: 0
+Repo not found: 181
+--------------------------------------------------
+Process 244 results:
+Total project: 644
+Project using latest: 201
+Total Dockerfile: 1255
+Dockerfile using latest: 345
+File not found or error: 0
+Repo not found: 113
+--------------------------------------------------
+Process 225 results:
+Total project: 616
+Project using latest: 167
+Total Dockerfile: 873
+Dockerfile using latest: 206
+File not found or error: 0
+Repo not found: 141
+--------------------------------------------------
+Process 232 results:
+Total project: 653
+Project using latest: 200
+Total Dockerfile: 840
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 104
+--------------------------------------------------
+Process 239 results:
+Total project: 634
+Project using latest: 179
+Total Dockerfile: 906
+Dockerfile using latest: 209
+File not found or error: 0
+Repo not found: 123
+--------------------------------------------------
+Process 218 results:
+Total project: 634
+Project using latest: 179
+Total Dockerfile: 1351
+Dockerfile using latest: 438
+File not found or error: 0
+Repo not found: 123
+--------------------------------------------------
+Process 234 results:
+Total project: 627
+Project using latest: 172
+Total Dockerfile: 1000
+Dockerfile using latest: 220
+File not found or error: 0
+Repo not found: 130
+--------------------------------------------------
+Process 238 results:
+Total project: 612
+Project using latest: 168
+Total Dockerfile: 820
+Dockerfile using latest: 201
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 245 results:
+Total project: 657
+Project using latest: 195
+Total Dockerfile: 893
+Dockerfile using latest: 243
+File not found or error: 0
+Repo not found: 100
+--------------------------------------------------
+Process 241 results:
+Total project: 655
+Project using latest: 185
+Total Dockerfile: 990
+Dockerfile using latest: 243
+File not found or error: 0
+Repo not found: 102
+--------------------------------------------------
+Process 240 results:
+Total project: 655
+Project using latest: 212
+Total Dockerfile: 1057
+Dockerfile using latest: 250
+File not found or error: 0
+Repo not found: 102
+--------------------------------------------------
+Process 243 results:
+Total project: 641
+Project using latest: 198
+Total Dockerfile: 847
+Dockerfile using latest: 226
+File not found or error: 0
+Repo not found: 116
+--------------------------------------------------
+Process 242 results:
+Total project: 647
+Project using latest: 195
+Total Dockerfile: 1098
+Dockerfile using latest: 216
+File not found or error: 1
+Repo not found: 110
+--------------------------------------------------
+Process 209 results:
+Total project: 597
+Project using latest: 172
+Total Dockerfile: 928
+Dockerfile using latest: 247
+File not found or error: 0
+Repo not found: 160
+--------------------------------------------------
+Process 147 results:
+Total project: 549
+Project using latest: 159
+Total Dockerfile: 6862
+Dockerfile using latest: 230
+File not found or error: 0
+Repo not found: 208
+--------------------------------------------------
+Process 256 results:
+Total project: 648
+Project using latest: 209
+Total Dockerfile: 875
+Dockerfile using latest: 256
+File not found or error: 1
+Repo not found: 109
+--------------------------------------------------
+Process 257 results:
+Total project: 632
+Project using latest: 199
+Total Dockerfile: 863
+Dockerfile using latest: 249
+File not found or error: 0
+Repo not found: 125
+--------------------------------------------------
+Process 263 results:
+Total project: 629
+Project using latest: 194
+Total Dockerfile: 1869
+Dockerfile using latest: 255
+File not found or error: 0
+Repo not found: 128
+--------------------------------------------------
+Process 258 results:
+Total project: 625
+Project using latest: 174
+Total Dockerfile: 1200
+Dockerfile using latest: 368
+File not found or error: 0
+Repo not found: 132
+--------------------------------------------------
+Process 246 results:
+Total project: 648
+Project using latest: 195
+Total Dockerfile: 1130
+Dockerfile using latest: 311
+File not found or error: 0
+Repo not found: 109
+--------------------------------------------------
+Process 251 results:
+Total project: 644
+Project using latest: 187
+Total Dockerfile: 984
+Dockerfile using latest: 230
+File not found or error: 0
+Repo not found: 113
+--------------------------------------------------
+Process 271 results:
+Total project: 636
+Project using latest: 191
+Total Dockerfile: 904
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 121
+--------------------------------------------------
+Process 259 results:
+Total project: 626
+Project using latest: 174
+Total Dockerfile: 967
+Dockerfile using latest: 211
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 264 results:
+Total project: 643
+Project using latest: 181
+Total Dockerfile: 908
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 114
+--------------------------------------------------
+Process 247 results:
+Total project: 634
+Project using latest: 198
+Total Dockerfile: 1088
+Dockerfile using latest: 300
+File not found or error: 0
+Repo not found: 123
+--------------------------------------------------
+Process 252 results:
+Total project: 641
+Project using latest: 193
+Total Dockerfile: 1099
+Dockerfile using latest: 275
+File not found or error: 1
+Repo not found: 116
+--------------------------------------------------
+Process 253 results:
+Total project: 643
+Project using latest: 185
+Total Dockerfile: 1002
+Dockerfile using latest: 285
+File not found or error: 2
+Repo not found: 114
+--------------------------------------------------
+Process 261 results:
+Total project: 643
+Project using latest: 198
+Total Dockerfile: 817
+Dockerfile using latest: 239
+File not found or error: 0
+Repo not found: 114
+--------------------------------------------------
+Process 262 results:
+Total project: 643
+Project using latest: 187
+Total Dockerfile: 939
+Dockerfile using latest: 255
+File not found or error: 0
+Repo not found: 114
+--------------------------------------------------
+Process 269 results:
+Total project: 624
+Project using latest: 174
+Total Dockerfile: 811
+Dockerfile using latest: 221
+File not found or error: 0
+Repo not found: 133
+--------------------------------------------------
+Process 265 results:
+Total project: 638
+Project using latest: 184
+Total Dockerfile: 934
+Dockerfile using latest: 235
+File not found or error: 0
+Repo not found: 119
+--------------------------------------------------
+Process 273 results:
+Total project: 629
+Project using latest: 166
+Total Dockerfile: 829
+Dockerfile using latest: 188
+File not found or error: 0
+Repo not found: 128
+--------------------------------------------------
+Process 250 results:
+Total project: 645
+Project using latest: 177
+Total Dockerfile: 913
+Dockerfile using latest: 203
+File not found or error: 1
+Repo not found: 112
+--------------------------------------------------
+Process 249 results:
+Total project: 654
+Project using latest: 191
+Total Dockerfile: 885
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 103
+--------------------------------------------------
+Process 275 results:
+Total project: 655
+Project using latest: 195
+Total Dockerfile: 865
+Dockerfile using latest: 229
+File not found or error: 0
+Repo not found: 102
+--------------------------------------------------
+Process 219 results:
+Total project: 628
+Project using latest: 178
+Total Dockerfile: 1017
+Dockerfile using latest: 250
+File not found or error: 0
+Repo not found: 129
+--------------------------------------------------
+Process 270 results:
+Total project: 642
+Project using latest: 178
+Total Dockerfile: 1061
+Dockerfile using latest: 234
+File not found or error: 1
+Repo not found: 115
+--------------------------------------------------
+Process 267 results:
+Total project: 654
+Project using latest: 207
+Total Dockerfile: 943
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 103
+--------------------------------------------------
+Process 260 results:
+Total project: 646
+Project using latest: 181
+Total Dockerfile: 1079
+Dockerfile using latest: 313
+File not found or error: 0
+Repo not found: 111
+--------------------------------------------------
+Process 248 results:
+Total project: 647
+Project using latest: 173
+Total Dockerfile: 1133
+Dockerfile using latest: 264
+File not found or error: 1
+Repo not found: 110
+--------------------------------------------------
+Process 266 results:
+Total project: 644
+Project using latest: 200
+Total Dockerfile: 939
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 113
+--------------------------------------------------
+Process 272 results:
+Total project: 635
+Project using latest: 185
+Total Dockerfile: 961
+Dockerfile using latest: 212
+File not found or error: 1
+Repo not found: 122
+--------------------------------------------------
+Process 268 results:
+Total project: 656
+Project using latest: 188
+Total Dockerfile: 1227
+Dockerfile using latest: 302
+File not found or error: 0
+Repo not found: 101
+--------------------------------------------------
+Process 276 results:
+Total project: 657
+Project using latest: 202
+Total Dockerfile: 932
+Dockerfile using latest: 224
+File not found or error: 0
+Repo not found: 100
+--------------------------------------------------
+Process 300 results:
+Total project: 640
+Project using latest: 200
+Total Dockerfile: 907
+Dockerfile using latest: 230
+File not found or error: 0
+Repo not found: 117
+--------------------------------------------------
+Process 277 results:
+Total project: 619
+Project using latest: 199
+Total Dockerfile: 852
+Dockerfile using latest: 237
+File not found or error: 2
+Repo not found: 138
+--------------------------------------------------
+Process 285 results:
+Total project: 615
+Project using latest: 176
+Total Dockerfile: 1042
+Dockerfile using latest: 244
+File not found or error: 0
+Repo not found: 142
+--------------------------------------------------
+Process 279 results:
+Total project: 614
+Project using latest: 186
+Total Dockerfile: 1128
+Dockerfile using latest: 273
+File not found or error: 0
+Repo not found: 143
+--------------------------------------------------
+Process 309 results:
+Total project: 647
+Project using latest: 180
+Total Dockerfile: 845
+Dockerfile using latest: 215
+File not found or error: 0
+Repo not found: 110
+--------------------------------------------------
+Process 286 results:
+Total project: 612
+Project using latest: 184
+Total Dockerfile: 1021
+Dockerfile using latest: 282
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 278 results:
+Total project: 612
+Project using latest: 168
+Total Dockerfile: 886
+Dockerfile using latest: 187
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 280 results:
+Total project: 626
+Project using latest: 179
+Total Dockerfile: 1053
+Dockerfile using latest: 272
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 310 results:
+Total project: 639
+Project using latest: 200
+Total Dockerfile: 937
+Dockerfile using latest: 229
+File not found or error: 0
+Repo not found: 118
+--------------------------------------------------
+Process 289 results:
+Total project: 625
+Project using latest: 176
+Total Dockerfile: 883
+Dockerfile using latest: 198
+File not found or error: 0
+Repo not found: 132
+--------------------------------------------------
+Process 284 results:
+Total project: 645
+Project using latest: 180
+Total Dockerfile: 855
+Dockerfile using latest: 217
+File not found or error: 1
+Repo not found: 112
+--------------------------------------------------
+Process 290 results:
+Total project: 649
+Project using latest: 192
+Total Dockerfile: 967
+Dockerfile using latest: 236
+File not found or error: 0
+Repo not found: 108
+--------------------------------------------------
+Process 306 results:
+Total project: 642
+Project using latest: 196
+Total Dockerfile: 828
+Dockerfile using latest: 248
+File not found or error: 0
+Repo not found: 115
+--------------------------------------------------
+Process 254 results:
+Total project: 626
+Project using latest: 198
+Total Dockerfile: 1051
+Dockerfile using latest: 409
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 283 results:
+Total project: 658
+Project using latest: 174
+Total Dockerfile: 923
+Dockerfile using latest: 219
+File not found or error: 0
+Repo not found: 99
+--------------------------------------------------
+Process 293 results:
+Total project: 631
+Project using latest: 201
+Total Dockerfile: 1034
+Dockerfile using latest: 246
+File not found or error: 0
+Repo not found: 126
+--------------------------------------------------
+Process 305 results:
+Total project: 663
+Project using latest: 201
+Total Dockerfile: 885
+Dockerfile using latest: 273
+File not found or error: 1
+Repo not found: 94
+--------------------------------------------------
+Process 287 results:
+Total project: 631
+Project using latest: 169
+Total Dockerfile: 868
+Dockerfile using latest: 225
+File not found or error: 0
+Repo not found: 126
+--------------------------------------------------
+Process 282 results:
+Total project: 619
+Project using latest: 184
+Total Dockerfile: 881
+Dockerfile using latest: 227
+File not found or error: 0
+Repo not found: 138
+--------------------------------------------------
+Process 299 results:
+Total project: 649
+Project using latest: 194
+Total Dockerfile: 933
+Dockerfile using latest: 226
+File not found or error: 0
+Repo not found: 108
+--------------------------------------------------
+Process 294 results:
+Total project: 655
+Project using latest: 181
+Total Dockerfile: 904
+Dockerfile using latest: 230
+File not found or error: 0
+Repo not found: 102
+--------------------------------------------------
+Process 296 results:
+Total project: 643
+Project using latest: 191
+Total Dockerfile: 829
+Dockerfile using latest: 221
+File not found or error: 0
+Repo not found: 114
+--------------------------------------------------
+Process 281 results:
+Total project: 614
+Project using latest: 176
+Total Dockerfile: 1017
+Dockerfile using latest: 267
+File not found or error: 0
+Repo not found: 143
+--------------------------------------------------
+Process 291 results:
+Total project: 637
+Project using latest: 170
+Total Dockerfile: 992
+Dockerfile using latest: 205
+File not found or error: 0
+Repo not found: 120
+--------------------------------------------------
+Process 314 results:
+Total project: 624
+Project using latest: 203
+Total Dockerfile: 892
+Dockerfile using latest: 234
+File not found or error: 0
+Repo not found: 133
+--------------------------------------------------
+Process 288 results:
+Total project: 629
+Project using latest: 204
+Total Dockerfile: 807
+Dockerfile using latest: 239
+File not found or error: 0
+Repo not found: 128
+--------------------------------------------------
+Process 316 results:
+Total project: 651
+Project using latest: 224
+Total Dockerfile: 961
+Dockerfile using latest: 278
+File not found or error: 0
+Repo not found: 106
+--------------------------------------------------
+Process 295 results:
+Total project: 640
+Project using latest: 203
+Total Dockerfile: 930
+Dockerfile using latest: 263
+File not found or error: 0
+Repo not found: 117
+--------------------------------------------------
+Process 308 results:
+Total project: 635
+Project using latest: 162
+Total Dockerfile: 935
+Dockerfile using latest: 217
+File not found or error: 0
+Repo not found: 122
+--------------------------------------------------
+Process 329 results:
+Total project: 618
+Project using latest: 180
+Total Dockerfile: 843
+Dockerfile using latest: 234
+File not found or error: 0
+Repo not found: 139
+--------------------------------------------------
+Process 321 results:
+Total project: 630
+Project using latest: 196
+Total Dockerfile: 735
+Dockerfile using latest: 213
+File not found or error: 0
+Repo not found: 127
+--------------------------------------------------
+Process 298 results:
+Total project: 655
+Project using latest: 179
+Total Dockerfile: 887
+Dockerfile using latest: 234
+File not found or error: 0
+Repo not found: 102
+--------------------------------------------------
+Process 311 results:
+Total project: 607
+Project using latest: 168
+Total Dockerfile: 860
+Dockerfile using latest: 211
+File not found or error: 0
+Repo not found: 150
+--------------------------------------------------
+Process 323 results:
+Total project: 637
+Project using latest: 189
+Total Dockerfile: 919
+Dockerfile using latest: 219
+File not found or error: 0
+Repo not found: 120
+--------------------------------------------------
+Process 301 results:
+Total project: 646
+Project using latest: 185
+Total Dockerfile: 981
+Dockerfile using latest: 276
+File not found or error: 0
+Repo not found: 111
+--------------------------------------------------
+Process 297 results:
+Total project: 635
+Project using latest: 190
+Total Dockerfile: 874
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 122
+--------------------------------------------------
+Process 292 results:
+Total project: 647
+Project using latest: 201
+Total Dockerfile: 816
+Dockerfile using latest: 235
+File not found or error: 0
+Repo not found: 110
+--------------------------------------------------
+Process 328 results:
+Total project: 625
+Project using latest: 177
+Total Dockerfile: 909
+Dockerfile using latest: 216
+File not found or error: 0
+Repo not found: 132
+--------------------------------------------------
+Process 302 results:
+Total project: 647
+Project using latest: 201
+Total Dockerfile: 997
+Dockerfile using latest: 261
+File not found or error: 0
+Repo not found: 110
+--------------------------------------------------
+Process 313 results:
+Total project: 644
+Project using latest: 196
+Total Dockerfile: 1102
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 113
+--------------------------------------------------
+Process 307 results:
+Total project: 644
+Project using latest: 198
+Total Dockerfile: 804
+Dockerfile using latest: 241
+File not found or error: 0
+Repo not found: 113
+--------------------------------------------------
+Process 342 results:
+Total project: 638
+Project using latest: 185
+Total Dockerfile: 930
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 119
+--------------------------------------------------
+Process 331 results:
+Total project: 625
+Project using latest: 178
+Total Dockerfile: 907
+Dockerfile using latest: 251
+File not found or error: 0
+Repo not found: 132
+--------------------------------------------------
+Process 330 results:
+Total project: 640
+Project using latest: 191
+Total Dockerfile: 811
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 117
+--------------------------------------------------
+Process 317 results:
+Total project: 641
+Project using latest: 203
+Total Dockerfile: 878
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 116
+--------------------------------------------------
+Process 319 results:
+Total project: 661
+Project using latest: 206
+Total Dockerfile: 1285
+Dockerfile using latest: 283
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 315 results:
+Total project: 646
+Project using latest: 172
+Total Dockerfile: 1248
+Dockerfile using latest: 214
+File not found or error: 0
+Repo not found: 111
+--------------------------------------------------
+Process 333 results:
+Total project: 631
+Project using latest: 178
+Total Dockerfile: 781
+Dockerfile using latest: 208
+File not found or error: 0
+Repo not found: 126
+--------------------------------------------------
+Process 327 results:
+Total project: 629
+Project using latest: 181
+Total Dockerfile: 845
+Dockerfile using latest: 222
+File not found or error: 0
+Repo not found: 128
+--------------------------------------------------
+Process 326 results:
+Total project: 665
+Project using latest: 203
+Total Dockerfile: 877
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 92
+--------------------------------------------------
+Process 255 results:
+Total project: 654
+Project using latest: 193
+Total Dockerfile: 1067
+Dockerfile using latest: 312
+File not found or error: 0
+Repo not found: 103
+--------------------------------------------------
+Process 324 results:
+Total project: 631
+Project using latest: 192
+Total Dockerfile: 1126
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 126
+--------------------------------------------------
+Process 274 results:
+Total project: 621
+Project using latest: 178
+Total Dockerfile: 776
+Dockerfile using latest: 200
+File not found or error: 2
+Repo not found: 136
+--------------------------------------------------
+Process 304 results:
+Total project: 641
+Project using latest: 178
+Total Dockerfile: 896
+Dockerfile using latest: 232
+File not found or error: 0
+Repo not found: 116
+--------------------------------------------------
+Process 320 results:
+Total project: 629
+Project using latest: 193
+Total Dockerfile: 1093
+Dockerfile using latest: 340
+File not found or error: 0
+Repo not found: 128
+--------------------------------------------------
+Process 325 results:
+Total project: 616
+Project using latest: 177
+Total Dockerfile: 1005
+Dockerfile using latest: 247
+File not found or error: 0
+Repo not found: 141
+--------------------------------------------------
+Process 303 results:
+Total project: 645
+Project using latest: 185
+Total Dockerfile: 1536
+Dockerfile using latest: 263
+File not found or error: 0
+Repo not found: 112
+--------------------------------------------------
+Process 345 results:
+Total project: 624
+Project using latest: 181
+Total Dockerfile: 1150
+Dockerfile using latest: 290
+File not found or error: 0
+Repo not found: 133
+--------------------------------------------------
+Process 322 results:
+Total project: 635
+Project using latest: 190
+Total Dockerfile: 1070
+Dockerfile using latest: 264
+File not found or error: 0
+Repo not found: 122
+--------------------------------------------------
+Process 312 results:
+Total project: 640
+Project using latest: 174
+Total Dockerfile: 807
+Dockerfile using latest: 202
+File not found or error: 0
+Repo not found: 117
+--------------------------------------------------
+Process 335 results:
+Total project: 635
+Project using latest: 177
+Total Dockerfile: 956
+Dockerfile using latest: 222
+File not found or error: 1
+Repo not found: 122
+--------------------------------------------------
+Process 341 results:
+Total project: 575
+Project using latest: 176
+Total Dockerfile: 759
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 182
+--------------------------------------------------
+Process 334 results:
+Total project: 634
+Project using latest: 184
+Total Dockerfile: 935
+Dockerfile using latest: 342
+File not found or error: 0
+Repo not found: 123
+--------------------------------------------------
+Process 337 results:
+Total project: 632
+Project using latest: 188
+Total Dockerfile: 1037
+Dockerfile using latest: 336
+File not found or error: 0
+Repo not found: 125
+--------------------------------------------------
+Process 332 results:
+Total project: 644
+Project using latest: 196
+Total Dockerfile: 1104
+Dockerfile using latest: 360
+File not found or error: 0
+Repo not found: 113
+--------------------------------------------------
+Process 339 results:
+Total project: 618
+Project using latest: 177
+Total Dockerfile: 863
+Dockerfile using latest: 213
+File not found or error: 0
+Repo not found: 139
+--------------------------------------------------
+Process 344 results:
+Total project: 639
+Project using latest: 183
+Total Dockerfile: 1147
+Dockerfile using latest: 318
+File not found or error: 0
+Repo not found: 118
+--------------------------------------------------
+Process 318 results:
+Total project: 651
+Project using latest: 206
+Total Dockerfile: 1144
+Dockerfile using latest: 271
+File not found or error: 0
+Repo not found: 106
+--------------------------------------------------
+Process 338 results:
+Total project: 632
+Project using latest: 158
+Total Dockerfile: 894
+Dockerfile using latest: 216
+File not found or error: 0
+Repo not found: 125
+--------------------------------------------------
+Process 340 results:
+Total project: 628
+Project using latest: 195
+Total Dockerfile: 1179
+Dockerfile using latest: 252
+File not found or error: 0
+Repo not found: 129
+--------------------------------------------------
+Process 352 results:
+Total project: 639
+Project using latest: 194
+Total Dockerfile: 1037
+Dockerfile using latest: 222
+File not found or error: 0
+Repo not found: 118
+--------------------------------------------------
+Process 351 results:
+Total project: 613
+Project using latest: 186
+Total Dockerfile: 855
+Dockerfile using latest: 203
+File not found or error: 0
+Repo not found: 144
+--------------------------------------------------
+Process 350 results:
+Total project: 635
+Project using latest: 169
+Total Dockerfile: 978
+Dockerfile using latest: 225
+File not found or error: 1
+Repo not found: 122
+--------------------------------------------------
+Process 336 results:
+Total project: 612
+Project using latest: 206
+Total Dockerfile: 1009
+Dockerfile using latest: 315
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 359 results:
+Total project: 596
+Project using latest: 161
+Total Dockerfile: 879
+Dockerfile using latest: 180
+File not found or error: 0
+Repo not found: 161
+--------------------------------------------------
+Process 343 results:
+Total project: 640
+Project using latest: 169
+Total Dockerfile: 1214
+Dockerfile using latest: 444
+File not found or error: 1
+Repo not found: 117
+--------------------------------------------------
+Process 355 results:
+Total project: 627
+Project using latest: 197
+Total Dockerfile: 1066
+Dockerfile using latest: 272
+File not found or error: 0
+Repo not found: 130
+--------------------------------------------------
+Process 365 results:
+Total project: 529
+Project using latest: 161
+Total Dockerfile: 769
+Dockerfile using latest: 230
+File not found or error: 0
+Repo not found: 228
+--------------------------------------------------
+Process 360 results:
+Total project: 612
+Project using latest: 166
+Total Dockerfile: 824
+Dockerfile using latest: 191
+File not found or error: 0
+Repo not found: 145
+--------------------------------------------------
+Process 356 results:
+Total project: 636
+Project using latest: 188
+Total Dockerfile: 856
+Dockerfile using latest: 264
+File not found or error: 1
+Repo not found: 121
+--------------------------------------------------
+Process 362 results:
+Total project: 586
+Project using latest: 168
+Total Dockerfile: 914
+Dockerfile using latest: 198
+File not found or error: 1
+Repo not found: 171
+--------------------------------------------------
+Process 364 results:
+Total project: 528
+Project using latest: 150
+Total Dockerfile: 799
+Dockerfile using latest: 186
+File not found or error: 0
+Repo not found: 229
+--------------------------------------------------
+Process 353 results:
+Total project: 608
+Project using latest: 168
+Total Dockerfile: 832
+Dockerfile using latest: 212
+File not found or error: 0
+Repo not found: 149
+--------------------------------------------------
+Process 358 results:
+Total project: 618
+Project using latest: 170
+Total Dockerfile: 1026
+Dockerfile using latest: 245
+File not found or error: 0
+Repo not found: 139
+--------------------------------------------------
+Process 357 results:
+Total project: 636
+Project using latest: 189
+Total Dockerfile: 991
+Dockerfile using latest: 256
+File not found or error: 0
+Repo not found: 121
+--------------------------------------------------
+Process 367 results:
+Total project: 607
+Project using latest: 167
+Total Dockerfile: 1011
+Dockerfile using latest: 206
+File not found or error: 0
+Repo not found: 150
+--------------------------------------------------
+Process 366 results:
+Total project: 544
+Project using latest: 147
+Total Dockerfile: 800
+Dockerfile using latest: 189
+File not found or error: 0
+Repo not found: 213
+--------------------------------------------------
+Process 348 results:
+Total project: 659
+Project using latest: 178
+Total Dockerfile: 1283
+Dockerfile using latest: 292
+File not found or error: 0
+Repo not found: 98
+--------------------------------------------------
+Process 354 results:
+Total project: 622
+Project using latest: 173
+Total Dockerfile: 892
+Dockerfile using latest: 229
+File not found or error: 0
+Repo not found: 135
+--------------------------------------------------
+Process 363 results:
+Total project: 557
+Project using latest: 162
+Total Dockerfile: 762
+Dockerfile using latest: 203
+File not found or error: 0
+Repo not found: 200
+--------------------------------------------------
+Process 369 results:
+Total project: 658
+Project using latest: 183
+Total Dockerfile: 1060
+Dockerfile using latest: 274
+File not found or error: 0
+Repo not found: 99
+--------------------------------------------------
+Process 406 results:
+Total project: 476
+Project using latest: 149
+Total Dockerfile: 582
+Dockerfile using latest: 163
+File not found or error: 0
+Repo not found: 281
+--------------------------------------------------
+Process 361 results:
+Total project: 598
+Project using latest: 158
+Total Dockerfile: 863
+Dockerfile using latest: 246
+File not found or error: 0
+Repo not found: 159
+--------------------------------------------------
+Process 349 results:
+Total project: 620
+Project using latest: 163
+Total Dockerfile: 1120
+Dockerfile using latest: 209
+File not found or error: 0
+Repo not found: 137
+--------------------------------------------------
+Process 347 results:
+Total project: 617
+Project using latest: 145
+Total Dockerfile: 1223
+Dockerfile using latest: 331
+File not found or error: 0
+Repo not found: 140
+--------------------------------------------------
+Process 370 results:
+Total project: 637
+Project using latest: 197
+Total Dockerfile: 1179
+Dockerfile using latest: 410
+File not found or error: 1
+Repo not found: 120
+--------------------------------------------------
+Process 405 results:
+Total project: 544
+Project using latest: 153
+Total Dockerfile: 929
+Dockerfile using latest: 158
+File not found or error: 3
+Repo not found: 213
+--------------------------------------------------
+Process 346 results:
+Total project: 620
+Project using latest: 168
+Total Dockerfile: 7499
+Dockerfile using latest: 292
+File not found or error: 0
+Repo not found: 137
+--------------------------------------------------
+Process 373 results:
+Total project: 657
+Project using latest: 170
+Total Dockerfile: 1012
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 100
+--------------------------------------------------
+Process 402 results:
+Total project: 661
+Project using latest: 193
+Total Dockerfile: 904
+Dockerfile using latest: 223
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 404 results:
+Total project: 648
+Project using latest: 170
+Total Dockerfile: 1084
+Dockerfile using latest: 246
+File not found or error: 0
+Repo not found: 109
+--------------------------------------------------
+Process 371 results:
+Total project: 660
+Project using latest: 216
+Total Dockerfile: 1107
+Dockerfile using latest: 303
+File not found or error: 0
+Repo not found: 97
+--------------------------------------------------
+Process 483 results:
+Total project: 603
+Project using latest: 175
+Total Dockerfile: 875
+Dockerfile using latest: 214
+File not found or error: 1
+Repo not found: 154
+--------------------------------------------------
+Process 368 results:
+Total project: 677
+Project using latest: 183
+Total Dockerfile: 1394
+Dockerfile using latest: 264
+File not found or error: 0
+Repo not found: 80
+--------------------------------------------------
+Process 482 results:
+Total project: 617
+Project using latest: 189
+Total Dockerfile: 722
+Dockerfile using latest: 200
+File not found or error: 0
+Repo not found: 140
+--------------------------------------------------
+Process 473 results:
+Total project: 636
+Project using latest: 175
+Total Dockerfile: 878
+Dockerfile using latest: 205
+File not found or error: 0
+Repo not found: 121
+--------------------------------------------------
+Process 450 results:
+Total project: 538
+Project using latest: 146
+Total Dockerfile: 940
+Dockerfile using latest: 187
+File not found or error: 0
+Repo not found: 219
+--------------------------------------------------
+Process 412 results:
+Total project: 613
+Project using latest: 184
+Total Dockerfile: 744
+Dockerfile using latest: 202
+File not found or error: 0
+Repo not found: 144
+--------------------------------------------------
+Process 472 results:
+Total project: 669
+Project using latest: 204
+Total Dockerfile: 821
+Dockerfile using latest: 222
+File not found or error: 0
+Repo not found: 88
+--------------------------------------------------
+Process 409 results:
+Total project: 653
+Project using latest: 182
+Total Dockerfile: 934
+Dockerfile using latest: 214
+File not found or error: 0
+Repo not found: 104
+--------------------------------------------------
+Process 372 results:
+Total project: 676
+Project using latest: 201
+Total Dockerfile: 974
+Dockerfile using latest: 278
+File not found or error: 0
+Repo not found: 81
+--------------------------------------------------
+Process 467 results:
+Total project: 652
+Project using latest: 212
+Total Dockerfile: 894
+Dockerfile using latest: 257
+File not found or error: 0
+Repo not found: 105
+--------------------------------------------------
+Process 408 results:
+Total project: 656
+Project using latest: 197
+Total Dockerfile: 906
+Dockerfile using latest: 237
+File not found or error: 0
+Repo not found: 101
+--------------------------------------------------
+Process 468 results:
+Total project: 645
+Project using latest: 196
+Total Dockerfile: 885
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 112
+--------------------------------------------------
+Process 441 results:
+Total project: 573
+Project using latest: 161
+Total Dockerfile: 732
+Dockerfile using latest: 183
+File not found or error: 0
+Repo not found: 184
+--------------------------------------------------
+Process 451 results:
+Total project: 555
+Project using latest: 166
+Total Dockerfile: 909
+Dockerfile using latest: 193
+File not found or error: 0
+Repo not found: 202
+--------------------------------------------------
+Process 377 results:
+Total project: 672
+Project using latest: 183
+Total Dockerfile: 985
+Dockerfile using latest: 256
+File not found or error: 2
+Repo not found: 85
+--------------------------------------------------
+Process 439 results:
+Total project: 559
+Project using latest: 168
+Total Dockerfile: 754
+Dockerfile using latest: 191
+File not found or error: 1
+Repo not found: 198
+--------------------------------------------------
+Process 444 results:
+Total project: 552
+Project using latest: 181
+Total Dockerfile: 699
+Dockerfile using latest: 216
+File not found or error: 0
+Repo not found: 205
+--------------------------------------------------
+Process 394 results:
+Total project: 652
+Project using latest: 198
+Total Dockerfile: 1072
+Dockerfile using latest: 322
+File not found or error: 0
+Repo not found: 105
+--------------------------------------------------
+Process 440 results:
+Total project: 602
+Project using latest: 160
+Total Dockerfile: 751
+Dockerfile using latest: 176
+File not found or error: 1
+Repo not found: 155
+--------------------------------------------------
+Process 442 results:
+Total project: 557
+Project using latest: 169
+Total Dockerfile: 684
+Dockerfile using latest: 189
+File not found or error: 0
+Repo not found: 200
+--------------------------------------------------
+Process 477 results:
+Total project: 656
+Project using latest: 182
+Total Dockerfile: 878
+Dockerfile using latest: 234
+File not found or error: 0
+Repo not found: 101
+--------------------------------------------------
+Process 374 results:
+Total project: 659
+Project using latest: 181
+Total Dockerfile: 933
+Dockerfile using latest: 212
+File not found or error: 0
+Repo not found: 98
+--------------------------------------------------
+Process 470 results:
+Total project: 651
+Project using latest: 175
+Total Dockerfile: 847
+Dockerfile using latest: 219
+File not found or error: 0
+Repo not found: 106
+--------------------------------------------------
+Process 481 results:
+Total project: 635
+Project using latest: 167
+Total Dockerfile: 1014
+Dockerfile using latest: 193
+File not found or error: 0
+Repo not found: 122
+--------------------------------------------------
+Process 478 results:
+Total project: 639
+Project using latest: 194
+Total Dockerfile: 871
+Dockerfile using latest: 228
+File not found or error: 0
+Repo not found: 118
+--------------------------------------------------
+Process 446 results:
+Total project: 573
+Project using latest: 157
+Total Dockerfile: 754
+Dockerfile using latest: 178
+File not found or error: 0
+Repo not found: 184
+--------------------------------------------------
+Process 385 results:
+Total project: 670
+Project using latest: 190
+Total Dockerfile: 1035
+Dockerfile using latest: 246
+File not found or error: 1
+Repo not found: 87
+--------------------------------------------------
+Process 460 results:
+Total project: 667
+Project using latest: 193
+Total Dockerfile: 793
+Dockerfile using latest: 216
+File not found or error: 0
+Repo not found: 90
+--------------------------------------------------
+Process 391 results:
+Total project: 661
+Project using latest: 184
+Total Dockerfile: 1038
+Dockerfile using latest: 271
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 378 results:
+Total project: 667
+Project using latest: 212
+Total Dockerfile: 899
+Dockerfile using latest: 251
+File not found or error: 0
+Repo not found: 90
+--------------------------------------------------
+Process 452 results:
+Total project: 569
+Project using latest: 161
+Total Dockerfile: 813
+Dockerfile using latest: 172
+File not found or error: 1
+Repo not found: 188
+--------------------------------------------------
+Process 475 results:
+Total project: 663
+Project using latest: 194
+Total Dockerfile: 1021
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 94
+--------------------------------------------------
+Process 392 results:
+Total project: 664
+Project using latest: 206
+Total Dockerfile: 888
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 93
+--------------------------------------------------
+Process 448 results:
+Total project: 581
+Project using latest: 173
+Total Dockerfile: 1108
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 176
+--------------------------------------------------
+Process 383 results:
+Total project: 651
+Project using latest: 192
+Total Dockerfile: 999
+Dockerfile using latest: 266
+File not found or error: 0
+Repo not found: 106
+--------------------------------------------------
+Process 474 results:
+Total project: 657
+Project using latest: 189
+Total Dockerfile: 1126
+Dockerfile using latest: 229
+File not found or error: 0
+Repo not found: 100
+--------------------------------------------------
+Process 469 results:
+Total project: 651
+Project using latest: 203
+Total Dockerfile: 1150
+Dockerfile using latest: 316
+File not found or error: 0
+Repo not found: 106
+--------------------------------------------------
+Process 465 results:
+Total project: 656
+Project using latest: 170
+Total Dockerfile: 1239
+Dockerfile using latest: 222
+File not found or error: 0
+Repo not found: 101
+--------------------------------------------------
+Process 443 results:
+Total project: 594
+Project using latest: 168
+Total Dockerfile: 821
+Dockerfile using latest: 191
+File not found or error: 1
+Repo not found: 163
+--------------------------------------------------
+Process 456 results:
+Total project: 667
+Project using latest: 183
+Total Dockerfile: 1009
+Dockerfile using latest: 267
+File not found or error: 0
+Repo not found: 90
+--------------------------------------------------
+Process 471 results:
+Total project: 661
+Project using latest: 188
+Total Dockerfile: 919
+Dockerfile using latest: 273
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 466 results:
+Total project: 662
+Project using latest: 193
+Total Dockerfile: 912
+Dockerfile using latest: 293
+File not found or error: 0
+Repo not found: 95
+--------------------------------------------------
+Process 379 results:
+Total project: 677
+Project using latest: 207
+Total Dockerfile: 1000
+Dockerfile using latest: 269
+File not found or error: 0
+Repo not found: 80
+--------------------------------------------------
+Process 449 results:
+Total project: 558
+Project using latest: 163
+Total Dockerfile: 926
+Dockerfile using latest: 266
+File not found or error: 0
+Repo not found: 199
+--------------------------------------------------
+Process 410 results:
+Total project: 660
+Project using latest: 183
+Total Dockerfile: 1011
+Dockerfile using latest: 282
+File not found or error: 0
+Repo not found: 97
+--------------------------------------------------
+Process 453 results:
+Total project: 596
+Project using latest: 183
+Total Dockerfile: 971
+Dockerfile using latest: 215
+File not found or error: 0
+Repo not found: 161
+--------------------------------------------------
+Process 398 results:
+Total project: 684
+Project using latest: 196
+Total Dockerfile: 874
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 73
+--------------------------------------------------
+Process 458 results:
+Total project: 664
+Project using latest: 203
+Total Dockerfile: 845
+Dockerfile using latest: 223
+File not found or error: 0
+Repo not found: 93
+--------------------------------------------------
+Process 457 results:
+Total project: 677
+Project using latest: 206
+Total Dockerfile: 1016
+Dockerfile using latest: 301
+File not found or error: 0
+Repo not found: 80
+--------------------------------------------------
+Process 231 results:
+Total project: 620
+Project using latest: 187
+Total Dockerfile: 898
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 137
+--------------------------------------------------
+Process 479 results:
+Total project: 634
+Project using latest: 172
+Total Dockerfile: 882
+Dockerfile using latest: 224
+File not found or error: 0
+Repo not found: 123
+--------------------------------------------------
+Process 455 results:
+Total project: 651
+Project using latest: 181
+Total Dockerfile: 815
+Dockerfile using latest: 212
+File not found or error: 0
+Repo not found: 106
+--------------------------------------------------
+Process 393 results:
+Total project: 671
+Project using latest: 201
+Total Dockerfile: 1048
+Dockerfile using latest: 291
+File not found or error: 2
+Repo not found: 86
+--------------------------------------------------
+Process 459 results:
+Total project: 648
+Project using latest: 180
+Total Dockerfile: 1178
+Dockerfile using latest: 247
+File not found or error: 0
+Repo not found: 109
+--------------------------------------------------
+Process 461 results:
+Total project: 666
+Project using latest: 181
+Total Dockerfile: 1014
+Dockerfile using latest: 302
+File not found or error: 0
+Repo not found: 91
+--------------------------------------------------
+Process 388 results:
+Total project: 679
+Project using latest: 196
+Total Dockerfile: 1023
+Dockerfile using latest: 256
+File not found or error: 0
+Repo not found: 78
+--------------------------------------------------
+Process 476 results:
+Total project: 650
+Project using latest: 173
+Total Dockerfile: 1248
+Dockerfile using latest: 391
+File not found or error: 0
+Repo not found: 107
+--------------------------------------------------
+Process 375 results:
+Total project: 663
+Project using latest: 180
+Total Dockerfile: 1021
+Dockerfile using latest: 238
+File not found or error: 0
+Repo not found: 94
+--------------------------------------------------
+Process 381 results:
+Total project: 666
+Project using latest: 181
+Total Dockerfile: 1150
+Dockerfile using latest: 266
+File not found or error: 0
+Repo not found: 91
+--------------------------------------------------
+Process 382 results:
+Total project: 666
+Project using latest: 184
+Total Dockerfile: 975
+Dockerfile using latest: 240
+File not found or error: 0
+Repo not found: 91
+--------------------------------------------------
+Process 445 results:
+Total project: 556
+Project using latest: 162
+Total Dockerfile: 728
+Dockerfile using latest: 193
+File not found or error: 0
+Repo not found: 201
+--------------------------------------------------
+Process 376 results:
+Total project: 665
+Project using latest: 187
+Total Dockerfile: 839
+Dockerfile using latest: 216
+File not found or error: 0
+Repo not found: 92
+--------------------------------------------------
+Process 447 results:
+Total project: 555
+Project using latest: 158
+Total Dockerfile: 796
+Dockerfile using latest: 214
+File not found or error: 0
+Repo not found: 202
+--------------------------------------------------
+Process 380 results:
+Total project: 660
+Project using latest: 166
+Total Dockerfile: 944
+Dockerfile using latest: 212
+File not found or error: 0
+Repo not found: 97
+--------------------------------------------------
+Process 480 results:
+Total project: 629
+Project using latest: 177
+Total Dockerfile: 1073
+Dockerfile using latest: 297
+File not found or error: 0
+Repo not found: 128
+--------------------------------------------------
+Process 387 results:
+Total project: 662
+Project using latest: 189
+Total Dockerfile: 951
+Dockerfile using latest: 281
+File not found or error: 0
+Repo not found: 95
+--------------------------------------------------
+Process 464 results:
+Total project: 661
+Project using latest: 189
+Total Dockerfile: 2175
+Dockerfile using latest: 242
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 434 results:
+Total project: 562
+Project using latest: 165
+Total Dockerfile: 928
+Dockerfile using latest: 199
+File not found or error: 0
+Repo not found: 195
+--------------------------------------------------
+Process 386 results:
+Total project: 658
+Project using latest: 204
+Total Dockerfile: 959
+Dockerfile using latest: 269
+File not found or error: 0
+Repo not found: 99
+--------------------------------------------------
+Process 422 results:
+Total project: 507
+Project using latest: 132
+Total Dockerfile: 586
+Dockerfile using latest: 147
+File not found or error: 0
+Repo not found: 250
+--------------------------------------------------
+Process 420 results:
+Total project: 584
+Project using latest: 171
+Total Dockerfile: 763
+Dockerfile using latest: 190
+File not found or error: 0
+Repo not found: 173
+--------------------------------------------------
+Process 430 results:
+Total project: 560
+Project using latest: 164
+Total Dockerfile: 708
+Dockerfile using latest: 185
+File not found or error: 0
+Repo not found: 197
+--------------------------------------------------
+Process 436 results:
+Total project: 539
+Project using latest: 153
+Total Dockerfile: 719
+Dockerfile using latest: 186
+File not found or error: 0
+Repo not found: 218
+--------------------------------------------------
+Process 390 results:
+Total project: 668
+Project using latest: 186
+Total Dockerfile: 1061
+Dockerfile using latest: 300
+File not found or error: 0
+Repo not found: 89
+--------------------------------------------------
+Process 403 results:
+Total project: 662
+Project using latest: 187
+Total Dockerfile: 1025
+Dockerfile using latest: 251
+File not found or error: 0
+Repo not found: 95
+--------------------------------------------------
+Process 389 results:
+Total project: 661
+Project using latest: 200
+Total Dockerfile: 993
+Dockerfile using latest: 303
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 431 results:
+Total project: 556
+Project using latest: 158
+Total Dockerfile: 668
+Dockerfile using latest: 165
+File not found or error: 0
+Repo not found: 201
+--------------------------------------------------
+Process 417 results:
+Total project: 519
+Project using latest: 159
+Total Dockerfile: 889
+Dockerfile using latest: 193
+File not found or error: 0
+Repo not found: 238
+--------------------------------------------------
+Process 384 results:
+Total project: 660
+Project using latest: 195
+Total Dockerfile: 818
+Dockerfile using latest: 222
+File not found or error: 1
+Repo not found: 97
+--------------------------------------------------
+Process 414 results:
+Total project: 626
+Project using latest: 197
+Total Dockerfile: 972
+Dockerfile using latest: 283
+File not found or error: 0
+Repo not found: 131
+--------------------------------------------------
+Process 423 results:
+Total project: 565
+Project using latest: 161
+Total Dockerfile: 836
+Dockerfile using latest: 171
+File not found or error: 0
+Repo not found: 192
+--------------------------------------------------
+Process 427 results:
+Total project: 554
+Project using latest: 146
+Total Dockerfile: 939
+Dockerfile using latest: 164
+File not found or error: 0
+Repo not found: 203
+--------------------------------------------------
+Process 401 results:
+Total project: 669
+Project using latest: 184
+Total Dockerfile: 917
+Dockerfile using latest: 231
+File not found or error: 0
+Repo not found: 88
+--------------------------------------------------
+Process 396 results:
+Total project: 677
+Project using latest: 196
+Total Dockerfile: 1031
+Dockerfile using latest: 233
+File not found or error: 0
+Repo not found: 80
+--------------------------------------------------
+Process 419 results:
+Total project: 540
+Project using latest: 140
+Total Dockerfile: 652
+Dockerfile using latest: 160
+File not found or error: 0
+Repo not found: 217
+--------------------------------------------------
+Process 433 results:
+Total project: 575
+Project using latest: 156
+Total Dockerfile: 693
+Dockerfile using latest: 178
+File not found or error: 1
+Repo not found: 182
+--------------------------------------------------
+Process 416 results:
+Total project: 613
+Project using latest: 171
+Total Dockerfile: 893
+Dockerfile using latest: 235
+File not found or error: 0
+Repo not found: 144
+--------------------------------------------------
+Process 438 results:
+Total project: 574
+Project using latest: 153
+Total Dockerfile: 838
+Dockerfile using latest: 273
+File not found or error: 0
+Repo not found: 183
+--------------------------------------------------
+Process 432 results:
+Total project: 570
+Project using latest: 156
+Total Dockerfile: 756
+Dockerfile using latest: 187
+File not found or error: 1
+Repo not found: 187
+--------------------------------------------------
+Process 429 results:
+Total project: 576
+Project using latest: 162
+Total Dockerfile: 700
+Dockerfile using latest: 179
+File not found or error: 0
+Repo not found: 181
+--------------------------------------------------
+Process 428 results:
+Total project: 564
+Project using latest: 171
+Total Dockerfile: 782
+Dockerfile using latest: 209
+File not found or error: 0
+Repo not found: 193
+--------------------------------------------------
+Process 435 results:
+Total project: 580
+Project using latest: 160
+Total Dockerfile: 755
+Dockerfile using latest: 195
+File not found or error: 0
+Repo not found: 177
+--------------------------------------------------
+Process 425 results:
+Total project: 568
+Project using latest: 180
+Total Dockerfile: 716
+Dockerfile using latest: 210
+File not found or error: 0
+Repo not found: 189
+--------------------------------------------------
+Process 421 results:
+Total project: 542
+Project using latest: 161
+Total Dockerfile: 813
+Dockerfile using latest: 187
+File not found or error: 0
+Repo not found: 215
+--------------------------------------------------
+Process 415 results:
+Total project: 585
+Project using latest: 154
+Total Dockerfile: 813
+Dockerfile using latest: 199
+File not found or error: 0
+Repo not found: 172
+--------------------------------------------------
+Process 437 results:
+Total project: 580
+Project using latest: 170
+Total Dockerfile: 833
+Dockerfile using latest: 201
+File not found or error: 0
+Repo not found: 177
+--------------------------------------------------
+Process 407 results:
+Total project: 630
+Project using latest: 201
+Total Dockerfile: 863
+Dockerfile using latest: 250
+File not found or error: 0
+Repo not found: 127
+--------------------------------------------------
+Process 426 results:
+Total project: 563
+Project using latest: 162
+Total Dockerfile: 726
+Dockerfile using latest: 193
+File not found or error: 0
+Repo not found: 194
+--------------------------------------------------
+Process 424 results:
+Total project: 587
+Project using latest: 153
+Total Dockerfile: 756
+Dockerfile using latest: 176
+File not found or error: 0
+Repo not found: 170
+--------------------------------------------------
+Process 413 results:
+Total project: 609
+Project using latest: 205
+Total Dockerfile: 852
+Dockerfile using latest: 247
+File not found or error: 0
+Repo not found: 148
+--------------------------------------------------
+Process 399 results:
+Total project: 653
+Project using latest: 189
+Total Dockerfile: 979
+Dockerfile using latest: 274
+File not found or error: 0
+Repo not found: 104
+--------------------------------------------------
+Process 411 results:
+Total project: 652
+Project using latest: 181
+Total Dockerfile: 904
+Dockerfile using latest: 260
+File not found or error: 0
+Repo not found: 105
+--------------------------------------------------
+Process 400 results:
+Total project: 661
+Project using latest: 200
+Total Dockerfile: 1034
+Dockerfile using latest: 297
+File not found or error: 0
+Repo not found: 96
+--------------------------------------------------
+Process 418 results:
+Total project: 566
+Project using latest: 174
+Total Dockerfile: 681
+Dockerfile using latest: 205
+File not found or error: 0
+Repo not found: 191
+--------------------------------------------------
+Process 395 results:
+Total project: 675
+Project using latest: 199
+Total Dockerfile: 1049
+Dockerfile using latest: 254
+File not found or error: 1
+Repo not found: 82
+--------------------------------------------------
+Process 454 results:
+Total project: 577
+Project using latest: 169
+Total Dockerfile: 870
+Dockerfile using latest: 308
+File not found or error: 0
+Repo not found: 180
+--------------------------------------------------
+Process 463 results:
+Total project: 666
+Project using latest: 177
+Total Dockerfile: 1357
+Dockerfile using latest: 279
+File not found or error: 0
+Repo not found: 91
+--------------------------------------------------
+Process 397 results:
+Total project: 653
+Project using latest: 194
+Total Dockerfile: 949
+Dockerfile using latest: 237
+File not found or error: 0
+Repo not found: 104
+--------------------------------------------------
+Process 462 results:
+Total project: 652
+Project using latest: 179
+Total Dockerfile: 1480
+Dockerfile using latest: 377
+File not found or error: 0
+Repo not found: 105
+--------------------------------------------------
+Process 484 results:
+Total project: 643
+Project using latest: 219
+Total Dockerfile: 4601
+Dockerfile using latest: 1414
+File not found or error: 1
+Repo not found: 114
+--------------------------------------------------
+Process 485 results:
+Total project: 656
+Project using latest: 215
+Total Dockerfile: 6689
+Dockerfile using latest: 1598
+File not found or error: 0
+Repo not found: 101
+--------------------------------------------------
+Process 487 results:
+Total project: 652
+Project using latest: 181
+Total Dockerfile: 2581
+Dockerfile using latest: 935
+File not found or error: 0
+Repo not found: 105
+--------------------------------------------------
+Process 489 results:
+Total project: 679
+Project using latest: 200
+Total Dockerfile: 3250
+Dockerfile using latest: 967
+File not found or error: 0
+Repo not found: 78
+--------------------------------------------------
+Process 488 results:
+Total project: 662
+Project using latest: 198
+Total Dockerfile: 2649
+Dockerfile using latest: 555
+File not found or error: 0
+Repo not found: 95
+--------------------------------------------------
+Process 486 results:
+Total project: 660
+Project using latest: 212
+Total Dockerfile: 4443
+Dockerfile using latest: 1218
+File not found or error: 0
+Repo not found: 97
+--------------------------------------------------
+Process 492 results:
+Total project: 692
+Project using latest: 194
+Total Dockerfile: 3992
+Dockerfile using latest: 1078
+File not found or error: 0
+Repo not found: 65
+--------------------------------------------------
+Process 495 results:
+Total project: 685
+Project using latest: 179
+Total Dockerfile: 2697
+Dockerfile using latest: 536
+File not found or error: 1
+Repo not found: 72
+--------------------------------------------------
+Process 496 results:
+Total project: 683
+Project using latest: 177
+Total Dockerfile: 36104
+Dockerfile using latest: 693
+File not found or error: 0
+Repo not found: 74
+--------------------------------------------------
+Process 491 results:
+Total project: 686
+Project using latest: 213
+Total Dockerfile: 3964
+Dockerfile using latest: 963
+File not found or error: 0
+Repo not found: 71
+--------------------------------------------------
+Process 493 results:
+Total project: 683
+Project using latest: 178
+Total Dockerfile: 2758
+Dockerfile using latest: 851
+File not found or error: 0
+Repo not found: 74
+--------------------------------------------------
+Process 490 results:
+Total project: 676
+Project using latest: 189
+Total Dockerfile: 2735
+Dockerfile using latest: 798
+File not found or error: 0
+Repo not found: 81
+--------------------------------------------------
+Process 494 results:
+Total project: 687
+Project using latest: 185
+Total Dockerfile: 3319
+Dockerfile using latest: 816
+File not found or error: 0
+Repo not found: 70
+--------------------------------------------------
+Process 497 results:
+Total project: 700
+Project using latest: 187
+Total Dockerfile: 4957
+Dockerfile using latest: 837
+File not found or error: 0
+Repo not found: 57
+--------------------------------------------------
+Process 498 results:
+Total project: 706
+Project using latest: 214
+Total Dockerfile: 3460
+Dockerfile using latest: 1035
+File not found or error: 0
+Repo not found: 51
+--------------------------------------------------
+Process 499 results:
+Total project: 696
+Project using latest: 203
+Total Dockerfile: 3058
+Dockerfile using latest: 623
+File not found or error: 0
+Repo not found: 61
+--------------------------------------------------
