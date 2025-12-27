@@ -12,16 +12,23 @@ with open(input_file, "r") as f:
 # Split text blocks by separator line
 blocks = [b.strip() for b in text.split("--------------------------------------------------") if b.strip()]
 
-# Prepare CSV headers
+# Prepare CSV headers (UPDATED)
 headers = [
     "Process",
     "Total project",
     "Project using latest",
     "Total Dockerfile",
     "Dockerfile using latest",
+    "Number of changes pinned to latest",
+    "Number of changes latest to pinned",
     "File not found or error",
     "Repo not found"
 ]
+
+def extract(pattern, text, default="0"):
+    """Safe regex extractor"""
+    m = re.search(pattern, text)
+    return m.group(1) if m else default
 
 # Open CSV for writing
 with open(output_file, "w", newline="") as csvfile:
@@ -29,16 +36,22 @@ with open(output_file, "w", newline="") as csvfile:
     writer.writeheader()
 
     for block in blocks:
-        # Extract data using regex
         data = {
-            "Process": re.search(r"Process\s+(\d+)", block).group(1),
-            "Total project": re.search(r"Total project:\s*(\d+)", block).group(1),
-            "Project using latest": re.search(r"Project using latest:\s*(\d+)", block).group(1),
-            "Total Dockerfile": re.search(r"Total Dockerfile:\s*(\d+)", block).group(1),
-            "Dockerfile using latest": re.search(r"Dockerfile using latest:\s*(\d+)", block).group(1),
-            "File not found or error": re.search(r"File not found or error:\s*(\d+)", block).group(1),
-            "Repo not found": re.search(r"Repo not found:\s*(\d+)", block).group(1),
+            "Process": extract(r"Process\s+(\d+)", block),
+            "Total project": extract(r"Total project:\s*(\d+)", block),
+            "Project using latest": extract(r"Project using latest:\s*(\d+)", block),
+            "Total Dockerfile": extract(r"Total Dockerfile:\s*(\d+)", block),
+            "Dockerfile using latest": extract(r"Dockerfile using latest:\s*(\d+)", block),
+            "Number of changes pinned to latest": extract(
+                r"Number of changes pinned to latest:\s*(\d+)", block
+            ),
+            "Number of changes latest to pinned": extract(
+                r"Number of changes latest to pinned:\s*(\d+)", block
+            ),
+            "File not found or error": extract(r"File not found or error:\s*(\d+)", block),
+            "Repo not found": extract(r"Repo not found:\s*(\d+)", block),
         }
+
         writer.writerow(data)
 
 print(f"Conversion complete! Data saved to '{output_file}'")
