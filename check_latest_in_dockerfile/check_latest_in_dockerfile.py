@@ -7,6 +7,9 @@ import time
 import argparse
 import re
 import fcntl
+import requests
+
+GITHUB_TOKEN = "YOUR_GITHUB_TOKEN_HERE"
 
 def extract_from_lines(path):
     """Return a list of FROM lines with base + tag"""
@@ -35,10 +38,13 @@ def parse_base_tag(from_line):
 
 def is_release_tag(tag_name):
     """
-    Accept tags like v1.2.3, 1.0.0, v2.5, 3.4 etc.
+    Accept tags like v1.2.3, 1.0.0, v2.5, 3.4, v1.0.0-1, release-2.0 etc.
     Reject non-release tags (nightly, dev, rc*, beta*, etc)
     """
-    return bool(re.match(r"^[vV]?\d+(\.\d+){1,2}$", tag_name))
+    unstable_keywords = ['beta', 'alpha', 'rc', 'dev', 'develop', 'nightly', 'snapshot', 'pre']
+    if any(keyword in tag_name.lower() for keyword in unstable_keywords):
+        return False
+    return bool(re.match(r"^[a-zA-Z\-_]*\d+([\.\-]\d+)+.*$", tag_name))
 
 def get_release_tags(repo):
     release_tags = []
@@ -99,7 +105,6 @@ def clear_directory(target_dir):
             print(f"Failed to delete: {item_path}, Error: {e}")
 
 
-
 # Clone the repository
 def clone_repo(reponame, repo_dir, output_dir):
     dir_name = reponame.replace('/','_')
@@ -125,6 +130,84 @@ def clone_repo(reponame, repo_dir, output_dir):
         print("Delete completed: {0}".format(reponame))
         repo = ''
     return repo, dir_name
+
+def get_headers():
+    if "YOUR_GITHUB_TOKEN_HERE" in GITHUB_TOKEN:
+        print("WARNING: No GitHub Token provided. API checks will likely fail or hit rate limits.")
+        return {}
+    return {"Authorization": f"token {GITHUB_TOKEN}"}
+
+def is_repo_meaningful(repo, repo_name):
+    """
+    Check if repo is meaningful:
+    1. Has at least one release tag OR
+    2. Stars >= 5 OR
+    3. Forks >= 1
+    
+    Includes retry logic for API Rate Limits (403).
+    """
+    print(f"Checking if repo {repo_name} is meaningful...")
+    
+    # 1. Check Tags first (Local check)
+    release_tags, _ = get_release_tags(repo)
+    if len(release_tags) > 0:
+        print(f"  [Meaningful] Found {len(release_tags)} release tags.")
+        return True
+
+    # 2. Check Stars/Forks (API check)
+    api_url = f"https://api.github.com/repos/{repo_name}"
+    max_retries = 2
+    
+    for attempt in range(max_retries + 2):
+        try:
+            response = requests.get(api_url, headers=get_headers(), timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                stars = data.get('stargazers_count', 0)
+                forks = data.get('forks_count', 0)
+                
+                if stars >= 5 or forks >= 1:
+                    print(f"  [Meaningful] Stars: {stars}, Forks: {forks}")
+                    return True
+                else:
+                    print(f"  [Skip] Not meaningful. Stars: {stars}, Forks: {forks}, Tags: 0")
+                    return False
+            
+            elif response.status_code == 403:
+
+                if attempt > max_retries:
+                    print(f"  [Error] 403 Forbidden after {max_retries} retries. skipping.")
+                    break 
+                
+                # Check specific Rate Limit headers
+                remaining = int(response.headers.get("X-RateLimit-Remaining", 0))
+                reset_time = int(response.headers.get("X-RateLimit-Reset", 0))
+                current_time = int(time.time())
+                
+                # Rate Limit Exhausted (Remaining = 0)
+                if remaining == 0 and reset_time > current_time:
+                    sleep_seconds = reset_time - current_time + 2 # +2s buffer
+                    print(f"  [Rate Limit] Limit exhausted. Sleeping {sleep_seconds}s until reset...")
+                    time.sleep(sleep_seconds)
+                    continue # Retry immediately after waking up
+                
+                else:
+                    print(f"  [Warning] 403 Forbidden but rate limit remains. Waiting 10s and retrying...")
+                    time.sleep(10)
+                    continue
+
+            # Other Errors
+            else:
+                print(f"  [Warning] API returned status {response.status_code}. Skipping.")
+                return False
+
+        except Exception as e:
+            print(f"  [Error] Failed to check GitHub API: {e}")
+            return False
+
+    print("  [Fail] Could not verify meaningfulness via API.")
+    return False
 
 # Return a list of Dockerfiles included in the repository
 def check_dockerfile(repo, dirname, repo_dir):
@@ -358,6 +441,16 @@ def main(input_file, output_dir, repo_dir, start=0, stop=-1, process_id=0):
 
             repo, dirname = clone_repo(reponame, repo_dir, output_dir)
             if repo != '': 
+
+                if not is_repo_meaningful(repo, reponame):
+                    print("Repo is not meaningful (No tags, low stars/forks). Skipping.")
+                    # Clean up immediately
+                    clear_directory(repo_dir + "/" + dirname)
+                    if os.path.exists(repo_dir + "/" + dirname):
+                        shutil.rmtree(repo_dir + "/" + dirname)
+                    print("--------------------------------------------------")
+                    continue
+
                 project_count += 1
                 dfile_list = check_dockerfile(repo, dirname, repo_dir)
                 release, non_release = get_release_tags(repo)
@@ -439,7 +532,9 @@ if __name__ == "__main__":
     parser.add_argument("--total_array_size", type=int, default=1)
     parser.add_argument("--output_dir", type=str, default="/output")
     parser.add_argument("--clone_repo_dir", type=str, default="/repo")
+    parser.add_argument("--github_token", type=str, default="YOUR_GITHUB_TOKEN_HERE")
     args = parser.parse_args()
     args = vars(args)
     start, stop = setup_index(args['input_file'], args['index'], args['total_array_size'])
+    GITHUB_TOKEN = args['github_token']
     main(args['input_file'], args['output_dir'], args['clone_repo_dir'], start, stop, args['index'])
