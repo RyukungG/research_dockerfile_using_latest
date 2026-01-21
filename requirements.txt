@@ -1,1 +1,6 @@
 GitPython
+pandas
+seaborn
+matplotlib
+requests
+docker

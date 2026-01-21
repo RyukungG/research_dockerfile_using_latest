@@ -1,6 +1,0 @@
-Process -1 results for year 2025:
-Total project: 0
-Project able to build Dockerfile: 0
-Project unable to build Dockerfile: 2
-Repo not found: 0
---------------------------------------------------

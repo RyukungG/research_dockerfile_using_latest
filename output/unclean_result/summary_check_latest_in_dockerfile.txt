@@ -1,0 +1,560 @@
+Process 43 results:
+Total project: 5644
+Project using latest: 1736
+Total Dockerfile: 7541
+Dockerfile using latest: 2146
+Number of changes pinned to latest: 16
+Number of changes latest to pinned: 33
+File not found or error: 3
+Repo not found: 1928
+--------------------------------------------------
+Process 42 results:
+Total project: 5601
+Project using latest: 1715
+Total Dockerfile: 7607
+Dockerfile using latest: 1952
+Number of changes pinned to latest: 16
+Number of changes latest to pinned: 24
+File not found or error: 0
+Repo not found: 1971
+--------------------------------------------------
+Process 31 results:
+Total project: 6386
+Project using latest: 2089
+Total Dockerfile: 10156
+Dockerfile using latest: 2636
+Number of changes pinned to latest: 10
+Number of changes latest to pinned: 23
+File not found or error: 0
+Repo not found: 1186
+--------------------------------------------------
+Process 44 results:
+Total project: 5692
+Project using latest: 1775
+Total Dockerfile: 7993
+Dockerfile using latest: 2217
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 28
+File not found or error: 2
+Repo not found: 1880
+--------------------------------------------------
+Process 33 results:
+Total project: 6283
+Project using latest: 1977
+Total Dockerfile: 9259
+Dockerfile using latest: 2866
+Number of changes pinned to latest: 19
+Number of changes latest to pinned: 32
+File not found or error: 1
+Repo not found: 1289
+--------------------------------------------------
+Process 47 results:
+Total project: 6501
+Project using latest: 2030
+Total Dockerfile: 9482
+Dockerfile using latest: 2689
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 42
+File not found or error: 0
+Repo not found: 1071
+--------------------------------------------------
+Process 41 results:
+Total project: 5972
+Project using latest: 1890
+Total Dockerfile: 8404
+Dockerfile using latest: 2492
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 33
+File not found or error: 0
+Repo not found: 1600
+--------------------------------------------------
+Process 2 results:
+Total project: 4940
+Project using latest: 1652
+Total Dockerfile: 34628
+Dockerfile using latest: 3344
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 18
+File not found or error: 1
+Repo not found: 2633
+--------------------------------------------------
+Process 27 results:
+Total project: 6309
+Project using latest: 1984
+Total Dockerfile: 9146
+Dockerfile using latest: 2401
+Number of changes pinned to latest: 9
+Number of changes latest to pinned: 27
+File not found or error: 5
+Repo not found: 1263
+--------------------------------------------------
+Process 11 results:
+Total project: 5254
+Project using latest: 1699
+Total Dockerfile: 8667
+Dockerfile using latest: 2659
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 25
+File not found or error: 1
+Repo not found: 2319
+--------------------------------------------------
+Process 4 results:
+Total project: 4936
+Project using latest: 1609
+Total Dockerfile: 10773
+Dockerfile using latest: 2958
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 19
+File not found or error: 0
+Repo not found: 2637
+--------------------------------------------------
+Process 15 results:
+Total project: 4912
+Project using latest: 1599
+Total Dockerfile: 7294
+Dockerfile using latest: 2114
+Number of changes pinned to latest: 7
+Number of changes latest to pinned: 22
+File not found or error: 0
+Repo not found: 2661
+--------------------------------------------------
+Process 35 results:
+Total project: 6227
+Project using latest: 1960
+Total Dockerfile: 9420
+Dockerfile using latest: 2547
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 33
+File not found or error: 2
+Repo not found: 1345
+--------------------------------------------------
+Process 26 results:
+Total project: 6401
+Project using latest: 2045
+Total Dockerfile: 10458
+Dockerfile using latest: 2742
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 20
+File not found or error: 0
+Repo not found: 1171
+--------------------------------------------------
+Process 0 results:
+Total project: 5080
+Project using latest: 1735
+Total Dockerfile: 29915
+Dockerfile using latest: 3856
+Number of changes pinned to latest: 14
+Number of changes latest to pinned: 17
+File not found or error: 0
+Repo not found: 2493
+--------------------------------------------------
+Process 37 results:
+Total project: 6620
+Project using latest: 2073
+Total Dockerfile: 10043
+Dockerfile using latest: 2863
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 33
+File not found or error: 3
+Repo not found: 952
+--------------------------------------------------
+Process 40 results:
+Total project: 6239
+Project using latest: 1972
+Total Dockerfile: 9199
+Dockerfile using latest: 2446
+Number of changes pinned to latest: 18
+Number of changes latest to pinned: 38
+File not found or error: 3
+Repo not found: 1333
+--------------------------------------------------
+Process 36 results:
+Total project: 5880
+Project using latest: 1783
+Total Dockerfile: 9181
+Dockerfile using latest: 2394
+Number of changes pinned to latest: 15
+Number of changes latest to pinned: 34
+File not found or error: 1
+Repo not found: 1692
+--------------------------------------------------
+Process 10 results:
+Total project: 5460
+Project using latest: 1772
+Total Dockerfile: 9264
+Dockerfile using latest: 2714
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 19
+File not found or error: 2
+Repo not found: 2113
+--------------------------------------------------
+Process 30 results:
+Total project: 6432
+Project using latest: 2027
+Total Dockerfile: 9556
+Dockerfile using latest: 2612
+Number of changes pinned to latest: 14
+Number of changes latest to pinned: 27
+File not found or error: 1
+Repo not found: 1140
+--------------------------------------------------
+Process 18 results:
+Total project: 5237
+Project using latest: 1642
+Total Dockerfile: 7670
+Dockerfile using latest: 2186
+Number of changes pinned to latest: 8
+Number of changes latest to pinned: 35
+File not found or error: 0
+Repo not found: 2335
+--------------------------------------------------
+Process 32 results:
+Total project: 6316
+Project using latest: 2047
+Total Dockerfile: 9459
+Dockerfile using latest: 2653
+Number of changes pinned to latest: 16
+Number of changes latest to pinned: 31
+File not found or error: 0
+Repo not found: 1256
+--------------------------------------------------
+Process 28 results:
+Total project: 6263
+Project using latest: 1940
+Total Dockerfile: 9331
+Dockerfile using latest: 2618
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 39
+File not found or error: 1
+Repo not found: 1309
+--------------------------------------------------
+Process 14 results:
+Total project: 5298
+Project using latest: 1685
+Total Dockerfile: 14518
+Dockerfile using latest: 2464
+Number of changes pinned to latest: 11
+Number of changes latest to pinned: 19
+File not found or error: 0
+Repo not found: 2275
+--------------------------------------------------
+Process 29 results:
+Total project: 6425
+Project using latest: 2043
+Total Dockerfile: 9118
+Dockerfile using latest: 2484
+Number of changes pinned to latest: 10
+Number of changes latest to pinned: 22
+File not found or error: 0
+Repo not found: 1147
+--------------------------------------------------
+Process 38 results:
+Total project: 6619
+Project using latest: 2080
+Total Dockerfile: 9876
+Dockerfile using latest: 2838
+Number of changes pinned to latest: 20
+Number of changes latest to pinned: 32
+File not found or error: 1
+Repo not found: 953
+--------------------------------------------------
+Process 6 results:
+Total project: 5080
+Project using latest: 1705
+Total Dockerfile: 9249
+Dockerfile using latest: 2763
+Number of changes pinned to latest: 12
+Number of changes latest to pinned: 31
+File not found or error: 3
+Repo not found: 2493
+--------------------------------------------------
+Process 12 results:
+Total project: 5300
+Project using latest: 1796
+Total Dockerfile: 8911
+Dockerfile using latest: 2482
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 33
+File not found or error: 4
+Repo not found: 2273
+--------------------------------------------------
+Process 3 results:
+Total project: 5054
+Project using latest: 1661
+Total Dockerfile: 10933
+Dockerfile using latest: 2867
+Number of changes pinned to latest: 6
+Number of changes latest to pinned: 15
+File not found or error: 0
+Repo not found: 2519
+--------------------------------------------------
+Process 8 results:
+Total project: 5607
+Project using latest: 1841
+Total Dockerfile: 10216
+Dockerfile using latest: 2851
+Number of changes pinned to latest: 18
+Number of changes latest to pinned: 22
+File not found or error: 0
+Repo not found: 1966
+--------------------------------------------------
+Process 9 results:
+Total project: 5582
+Project using latest: 1822
+Total Dockerfile: 11572
+Dockerfile using latest: 2914
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 26
+File not found or error: 0
+Repo not found: 1991
+--------------------------------------------------
+Process 20 results:
+Total project: 6172
+Project using latest: 2001
+Total Dockerfile: 9312
+Dockerfile using latest: 2698
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 36
+File not found or error: 1
+Repo not found: 1400
+--------------------------------------------------
+Process 7 results:
+Total project: 5680
+Project using latest: 1806
+Total Dockerfile: 10367
+Dockerfile using latest: 2867
+Number of changes pinned to latest: 8
+Number of changes latest to pinned: 29
+File not found or error: 2
+Repo not found: 1893
+--------------------------------------------------
+Process 34 results:
+Total project: 6246
+Project using latest: 1937
+Total Dockerfile: 17409
+Dockerfile using latest: 3129
+Number of changes pinned to latest: 27
+Number of changes latest to pinned: 42
+File not found or error: 1
+Repo not found: 1326
+--------------------------------------------------
+Process 21 results:
+Total project: 6017
+Project using latest: 1920
+Total Dockerfile: 9476
+Dockerfile using latest: 2734
+Number of changes pinned to latest: 18
+Number of changes latest to pinned: 28
+File not found or error: 1
+Repo not found: 1555
+--------------------------------------------------
+Process 19 results:
+Total project: 6207
+Project using latest: 1922
+Total Dockerfile: 9448
+Dockerfile using latest: 2632
+Number of changes pinned to latest: 19
+Number of changes latest to pinned: 26
+File not found or error: 0
+Repo not found: 1365
+--------------------------------------------------
+Process 23 results:
+Total project: 6096
+Project using latest: 1946
+Total Dockerfile: 8897
+Dockerfile using latest: 2427
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 23
+File not found or error: 0
+Repo not found: 1476
+--------------------------------------------------
+Process 45 results:
+Total project: 6129
+Project using latest: 1925
+Total Dockerfile: 9356
+Dockerfile using latest: 2580
+Number of changes pinned to latest: 15
+Number of changes latest to pinned: 30
+File not found or error: 1
+Repo not found: 1443
+--------------------------------------------------
+Process 24 results:
+Total project: 6473
+Project using latest: 2085
+Total Dockerfile: 10358
+Dockerfile using latest: 2814
+Number of changes pinned to latest: 12
+Number of changes latest to pinned: 21
+File not found or error: 2
+Repo not found: 1099
+--------------------------------------------------
+Process 17 results:
+Total project: 4770
+Project using latest: 1537
+Total Dockerfile: 8961
+Dockerfile using latest: 2109
+Number of changes pinned to latest: 12
+Number of changes latest to pinned: 23
+File not found or error: 2
+Repo not found: 2802
+--------------------------------------------------
+Process 1 results:
+Total project: 5128
+Project using latest: 1718
+Total Dockerfile: 13631
+Dockerfile using latest: 3472
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 22
+File not found or error: 0
+Repo not found: 2445
+--------------------------------------------------
+Process 13 results:
+Total project: 5470
+Project using latest: 1748
+Total Dockerfile: 8935
+Dockerfile using latest: 2673
+Number of changes pinned to latest: 17
+Number of changes latest to pinned: 27
+File not found or error: 0
+Repo not found: 2103
+--------------------------------------------------
+Process 22 results:
+Total project: 6075
+Project using latest: 1880
+Total Dockerfile: 9116
+Dockerfile using latest: 2475
+Number of changes pinned to latest: 16
+Number of changes latest to pinned: 38
+File not found or error: 0
+Repo not found: 1497
+--------------------------------------------------
+Process 25 results:
+Total project: 6374
+Project using latest: 2022
+Total Dockerfile: 9995
+Dockerfile using latest: 3122
+Number of changes pinned to latest: 16
+Number of changes latest to pinned: 30
+File not found or error: 4
+Repo not found: 1198
+--------------------------------------------------
+Process 5 results:
+Total project: 4712
+Project using latest: 1541
+Total Dockerfile: 9904
+Dockerfile using latest: 2654
+Number of changes pinned to latest: 15
+Number of changes latest to pinned: 29
+File not found or error: 0
+Repo not found: 2861
+--------------------------------------------------
+Process 46 results:
+Total project: 6561
+Project using latest: 2059
+Total Dockerfile: 11910
+Dockerfile using latest: 3817
+Number of changes pinned to latest: 23
+Number of changes latest to pinned: 47
+File not found or error: 0
+Repo not found: 1011
+--------------------------------------------------
+Process 39 results:
+Total project: 6646
+Project using latest: 2107
+Total Dockerfile: 9979
+Dockerfile using latest: 2844
+Number of changes pinned to latest: 16
+Number of changes latest to pinned: 36
+File not found or error: 3
+Repo not found: 926
+--------------------------------------------------
+Process 16 results:
+Total project: 4874
+Project using latest: 1578
+Total Dockerfile: 7658
+Dockerfile using latest: 2101
+Number of changes pinned to latest: 15
+Number of changes latest to pinned: 23
+File not found or error: 1
+Repo not found: 2698
+--------------------------------------------------
+Process 192 results:
+Total project: 1565
+Project using latest: 471
+Total Dockerfile: 2452
+Dockerfile using latest: 641
+Number of changes pinned to latest: 8
+Number of changes latest to pinned: 9
+File not found or error: 0
+Repo not found: 328
+--------------------------------------------------
+Process 193 results:
+Total project: 1554
+Project using latest: 549
+Total Dockerfile: 5837
+Dockerfile using latest: 1839
+Number of changes pinned to latest: 13
+Number of changes latest to pinned: 20
+File not found or error: 2
+Repo not found: 339
+--------------------------------------------------
+Process 196 results:
+Total project: 1701
+Project using latest: 588
+Total Dockerfile: 8991
+Dockerfile using latest: 2735
+Number of changes pinned to latest: 42
+Number of changes latest to pinned: 54
+File not found or error: 0
+Repo not found: 192
+--------------------------------------------------
+Process 198 results:
+Total project: 1710
+Project using latest: 510
+Total Dockerfile: 40227
+Dockerfile using latest: 1797
+Number of changes pinned to latest: 33
+Number of changes latest to pinned: 44
+File not found or error: 1
+Repo not found: 183
+--------------------------------------------------
+Process 194 results:
+Total project: 1652
+Project using latest: 607
+Total Dockerfile: 12453
+Dockerfile using latest: 3514
+Number of changes pinned to latest: 41
+Number of changes latest to pinned: 72
+File not found or error: 0
+Repo not found: 241
+--------------------------------------------------
+Process 197 results:
+Total project: 1715
+Project using latest: 571
+Total Dockerfile: 7812
+Dockerfile using latest: 2351
+Number of changes pinned to latest: 37
+Number of changes latest to pinned: 59
+File not found or error: 0
+Repo not found: 178
+--------------------------------------------------
+Process 199 results:
+Total project: 1752
+Project using latest: 619
+Total Dockerfile: 9785
+Dockerfile using latest: 2185
+Number of changes pinned to latest: 48
+Number of changes latest to pinned: 63
+File not found or error: 0
+Repo not found: 141
+--------------------------------------------------
+Process 195 results:
+Total project: 1650
+Project using latest: 544
+Total Dockerfile: 7027
+Dockerfile using latest: 2081
+Number of changes pinned to latest: 24
+Number of changes latest to pinned: 57
+File not found or error: 0
+Repo not found: 243
+--------------------------------------------------
