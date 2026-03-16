@@ -1,4 +1,5 @@
 GitPython
+PyGithub
 pandas
 seaborn
 matplotlib
