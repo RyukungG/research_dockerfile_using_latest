@@ -921,3 +921,6 @@ pivotalservices/cf-mgmt
 syncthing/syncthing
 JuPedSim/jpscore
 Azure/azure-cli
+Kong/docker-kong
+WASdev/ci.docker
+apache/couchdb-docker

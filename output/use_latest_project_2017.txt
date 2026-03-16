@@ -5188,3 +5188,5 @@ nanobox-io/nanobox-docker-build
 ComputerScienceHouse/s2i-jekyll
 pandeiro/docker-vnc-intellij
 cbluth/ipfs-gateway
+SWI-Prolog/docker-swipl
+arangodb/arangodb-docker

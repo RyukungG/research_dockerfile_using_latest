@@ -908,3 +908,5 @@ Ensembl/ensembl-hive
 RichardDally/CPython
 sergey-safarov/freeswitch
 Lind-Project/lind_project
+friendica/docker
+juanluisbaptiste/docker-brew-mageia

@@ -2014,3 +2014,10 @@ DigiKlausur/digiklausur-infra
 nikosch86/bash-curl-ssl
 cockroachdb/cockroach
 elastic/kibana
+docker-library/hello-world
+osrf/docker_images
+rakudo/docker
+osrf/docker_images
+nginx/docker-nginx
+ibmruntimes/semeru-containers
+fluent/fluentd-docker-image
